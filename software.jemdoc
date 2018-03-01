@@ -1,0 +1,30 @@
+# jemdoc: menu{menu.jemdoc}{index.html}
+= Software 
+
+
+== Lossless compression of assembled genomes
+
+	- [https://github.com/mikelhernaez/iDoComp iDoComp]\n
+
+== Lossy compression of Quality Scores
+	
+	- [https://github.com/mhernaez/qvz QVZ]\n
+
+	- [https://github.com/mhernaez/qvz2 QVZ2]\n
+
+	- [https://github.com/voges/calq CALQ]\n
+
+== Lossless compression of aligned reads
+
+	- [https://github.com/mikelhernaez/cbc CBC]\n
+
+	- [https://github.com/iochoa/GeneComp GeneComp]\n
+
+== Lossy and lossless compression of FASTQ files
+
+	- [https://github.com/refresh-bio/FaStore FaStore]\n
+
+== Lossless compression of the genotype information with random access
+	
+	- [https://github.com/kedartatwawadi/GTRAC GTRAC]\n
+

@@ -1,0 +1,13 @@
+# jemdoc: menu{menu.jemdoc}{index.html}
+== Projects
+
+
+The field of genomics is entering an exciting era with unprecedented opportunities for new medical insights, enabled by an enormous and ever-growing amount of genomic data. The data are characterized by highly distributed acquisition, huge storage requirements, and highly involved analyses that integrate heterogenous information. My research is dedicated to identifying and addressing the challenges arising in the context of such data. This undertaking includes the design and development of new algorithms for coping with the distribution and storage of the data, for facilitating its access, and for improving the analysis and inference performed on it. 
+
+I follow a multidisciplinary approach that combines tools from machine learning, information theory, and statistics to create a sound technical framework for tackling the challenges of modern genomic data.
+
+= Mayo Grand Challenge
+
+= Chan-Zuckerberg Initiative
+
+

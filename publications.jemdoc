@@ -1,0 +1,143 @@
+# jemdoc: menu{menu.jemdoc}{index.html}
+= Publications
+
+- (\#): Co-first author
+- (\$): (Co-)Corresponding author
+
+== Pre Prints
+
+	- [https://www.biorxiv.org/content/biorxiv/early/2018/01/09/241869.full.pdf Benchmark of lncRNA Quantification for RNA-Seq of Cancer Samples] \n
+	Biorxiv, 2018\n
+	H. Zheng, K. Brennan, M. Hernaez and O. Gevaert 
+
+	- [https://www.biorxiv.org/content/biorxiv/early/2017/07/25/168096.full.pdf FaStore: a space-saving solution for raw sequencing data] \n
+	Biorxiv, 2017\n
+	Ł. Roguski, I. Ochoa, M. Hernaez and S. Deorowicz 
+
+
+== Journal Publications and Conference Proceedings
+
+	- [https://doi.org/10.1093/bioinformatics/btx737 CALQ: compression of quality values of aligned sequencing data]\n
+	Bioinformatics, btw437, 2017\n
+	J. Voges, J. Ostermann and M. Hernaez(\$)
+
+	- [http://ieeexplore.ieee.org/document/7923646/ GeneComp, a new reference-based compressor for SAM files] \n
+	Data Compression Conference (DCC), 2017\n
+	R. Long, M. Hernaez(\#), I. Ochoa and T. Weissman
+
+	- [http://bioinformatics.oxfordjournals.org/content/32/17/i479.long GTRAC: fast retrieval from compressed collections of genomic variants] \n
+	Bioinformatics, btw437, 2016 (presented at the European Conference on Computational Biology (ECCB))\n
+	K. Tatwawadi, M. Hernaez, I. Ochoa, and T. Weissman
+
+	- [http://bib.oxfordjournals.org/content/early/2016/03/08/bib.bbw011 Effect of lossy compression of quality scores on variant calling] \n
+	Briefings in Bioinformatics, bbw011, 2016\n
+	I. Ochoa, M. Hernaez(\#,\$), R. Goldfeder, T. Weissman and E. Ashley 
+
+	- [http://ieeexplore.ieee.org/document/7606808/ CROMqs: an infinitesimal successive refinement lossy compressor for the quality scores] \n
+	IEEE Information Theory Workshop (ITW), UK, September, 2016\n
+	I. Ochoa, A. No, M. Hernaez, and T. Weissman
+
+	- [http://ieeexplore.ieee.org/document/7786169/ Denoising of Quality Scores for Boosted Inference and Reduced Storage] \n
+	Data Compression Conference (DCC), 2016\n
+	I. Ochoa, M. Hernaez(\#), R. Goldfeder, T. Weissman and E. Ashley
+
+	- [http://ieeexplore.ieee.org/document/7786170/ A cluster-based approach to compression of Quality Scores]\n 
+	Data Compression Conference (DCC), 2016\n
+	M. Hernaez, I. Ochoa and T. Weissman
+
+	- [http://ieeexplore.ieee.org/document/7786166/ A 
+An Evaluation Framework for Lossy Compression of Genome Sequencing Quality Values]\n 
+	Data Compression Conference (DCC), 2016\n
+	C. Alberti, N. Daniels, M. Hernaez(\#), J. Voges, R. L. Goldfeder, A. A. Hernandez-Lopez, M. Mattavelli, B. Berger
+
+	- [http://bioinformatics.oxfordjournals.org/content/32/7/1115.abstract Comment on: 'ERGC: An efficient referential genome compression algorithm'] \n
+	Bioinformatics, btv704, 2015\n
+	S. Deorowicz, S. Grabowski, I. Ochoa, M. Hernaez and T. Weissman 
+
+	- [http://bioinformatics.oxfordjournals.org/content/31/19/3122 QVZ: lossy compression of quality values] \n
+	Bioinformatics, btv330, 2015\n
+	G. Malysa, M. Hernaez(\#,\$), I. Ochoa, M. Rao, K. Ganesan and T. Weissman
+
+	- [https://link.springer.com/article/10.1186/s13638-015-0372-8 Design of a new scheme for multi-hop wireless networks using decode-and-forward strategy] \n
+	EURASIP Journal on Wireless Communications and Networking, Vol. 136, 2015\n
+	I. Alustiza, M. Hernaez and P. M. Crespo
+
+	- [https://www.ncbi.nlm.nih.gov/pubmed/25395305 Aligned genomic data compression via improved modeling] \n
+	Journal of bioinformatics and computational biology, Vol. 12, No. 6, 2014 (presented at the GIW ISCB-Asia, Japan, December 2014)\n
+	I. Ochoa, M. Hernaez(\#,\$) and T. Weissman
+
+	- [http://bioinformatics.oxfordjournals.org/content/31/5/626.long iDoComp: a compression scheme for assembled genomes] \n
+	Bioinformatics, btu698, 2014\n
+	I. Ochoa, M. Hernaez(\#,\$) and T. Weissman
+
+	- [http://ieeexplore.ieee.org/document/6330081/ On the Design of a Novel Joint Network-Channel Coding Scheme for the Multiple Access Relay Channel] \n
+	IEEE Journal on Selected Areas in Communications, Vol. 31, No. 8, 2013\n
+	M. Hernaez, P. M. Crespo and J. Del Ser
+
+	- [http://ieeexplore.ieee.org/document/6692030/ 
+ A Decode-and-Forward Scheme for Multihop Wireless Networks] \n
+	IEEE 78rd Vehicular Technology Conference (VTC Spring), 2013\n
+	M. Hernaez, P. M. Crespo and J. Del Ser
+
+	- [http://ieeexplore.ieee.org/document/6530098/  
+ Teaching information theory via a simulation tool for communications systems] \n
+	IEEE Global Engineering Education Conference (EDUCON), 2013\n
+	I. Alustiza, M. Hernaez, X. Insausti and P. M. Crespo
+
+	- [http://ieeexplore.ieee.org/document/6259797/ A Flexible Channel Coding Approach for Short-Length Codewords] \n
+	IEEE Communications Letters, Vol. 16, No. 9, 2012\n
+	M. Hernaez, P. M. Crespo and J. Del Ser
+
+	- [http://ieeexplore.ieee.org/document/5956446/  
+A Novel Scheme for Message-Forwarding in Multi-Hop Ad-Hoc Wireless Networks] \n
+	IEEE 73rd Vehicular Technology Conference (VTC Spring), 2011\n
+	M. Hernaez and P. M. Crespo
+
+	- [http://ieeexplore.ieee.org/document/5956367/  
+ Joint Non-Binary LDPC-BICM and Network Coding with Iterative Decoding for the Multiple Access Relay Channel] \n
+	IEEE 73rd Vehicular Technology Conference (VTC Spring), 2011\n
+	M. Hernaez, P. M. Crespo and J. Del Ser
+
+	- [http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5572892 LDPC Codes for Non-Uniform Memoryless Sources and Unequal Energy Allocation]  ([papers/2010_ldpc_paper.pdf PDF])\n
+	IEEE Communications Letters, Vol. 14, No. 9, 2010\n
+	I. Ochoa, P. Crespo and M. Hernaez
+
+	- [http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5439357 Turbo Joint Source-Channel Coding of NonUniform Memoryless Sources in the Bandwidth-Limited Regime] ([papers/2010_turbo_paper.pdf PDF])\n
+	IEEE Communications Letters, Vol. 14, No. 4, 2010\n
+	I. Ochoa, P. Crespo, J. Del Ser and M. Hernaez
+
+	- [http://ieeexplore.ieee.org/document/5288464/ Serially-Concatenated LDGM Codes for Correlated Sources over Gaussian Broadcast Channels] \n
+	IEEE Communications Letters, Vol. 13, No. 10, 2009\n
+	M. Hernaez, P. M. Crespo, J. Del Ser and J. Garcia-Frias
+
+== Conference Presentations (non-proceedings) and Posters
+
+
+	- [ MPEG-G the emerging standard for genomic data compression] \n
+	Rocky 2017 Bioinformatics Conference, Aspen, 2017 (Oral)\n
+	M. Hernaez, C. Alberti, M. Mattavelli and I. Ochoa
+
+	- [ The Regulatory power of lincRNAs] \n
+	Rocky 2017 Bioinformatics Conference, Aspen, 2017 (Poster)\n
+	M. Hernaez and O. Gevaert
+
+	- [ CALQ: compression of quality values of aligned sequencing data]\n
+	ISMB-ECCB, Prague, 2017 (Poster)\n
+	J. Voges, J. Ostermann and M. Hernaez
+
+	- [ Turbo Joint Source-Channel Coding of Cycle-Stationary Sources in the Bandwidth-Limited Regime] \n
+	The 2nd International Conference on Mobile Lightweight Wireless Systems (MOBILIGHT), Spain, May 2010 (Oral)\n
+	I. Ochoa, P. Crespo, J. Del Ser and M. Hernaez
+
+	- [ Codigos LDGM concatenados para la transmision de fuentes correlacionadas para canales de difusion] \n
+	XXIV National Assembly of the International Union of Radio Science (URSI), Spain, September 2009 (Oral)\n
+	M. Hernaez, P. Crespo, J. Del Ser and I. Ochoa
+
+
+== PhD Thesis
+
+	- [papers/genomic-data-compression_v1-augmented_pdf.pdf Genomic Data Compression and Processing: Theory, Models, Algorithms, and Experiments]
+
+== Master Thesis
+
+        - [papers/pfc_idoia.pdf Iterative Decoding Techniques for the Relay Channel]
