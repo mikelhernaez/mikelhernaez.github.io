@@ -6,19 +6,23 @@
 
 == Pre Prints
 
+	 - [https://www.biorxiv.org/content/early/2018/04/25/307884 Comparison of single gene and module-based methods for modeling gene regulatory networks] \n
+        Biorxiv, 2018\n
+        M. Hernaez and O. Gevaert
+
 	- [https://www.biorxiv.org/content/biorxiv/early/2018/01/09/241869.full.pdf Benchmark of lncRNA Quantification for RNA-Seq of Cancer Samples] \n
 	Biorxiv, 2018\n
 	H. Zheng, K. Brennan, M. Hernaez and O. Gevaert 
 
-	- [https://www.biorxiv.org/content/biorxiv/early/2017/07/25/168096.full.pdf FaStore: a space-saving solution for raw sequencing data] \n
-	Biorxiv, 2017\n
-	Ł. Roguski, I. Ochoa, M. Hernaez and S. Deorowicz 
-
 
 == Journal Publications and Conference Proceedings
 
+	- [https://doi.org/10.1093/bioinformatics/bty205 FaStore: a space-saving solution for raw sequencing data] \n	
+	Bioinformatics, btw437, 2018\n
+	Ł. Roguski, I. Ochoa, M. Hernaez and S. Deorowicz 
+
 	- [https://doi.org/10.1093/bioinformatics/btx737 CALQ: compression of quality values of aligned sequencing data]\n
-	Bioinformatics, btw437, 2017\n
+	Bioinformatics,  bty205, 2017\n
 	J. Voges, J. Ostermann and M. Hernaez(\$)
 
 	- [http://ieeexplore.ieee.org/document/7923646/ GeneComp, a new reference-based compressor for SAM files] \n
