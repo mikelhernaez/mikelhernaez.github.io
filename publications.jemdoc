@@ -117,6 +117,15 @@ A Novel Scheme for Message-Forwarding in Multi-Hop Ad-Hoc Wireless Networks] \n
 == Conference Presentations (non-proceedings) and Posters
 
 
+	- [ Benchmark of lncRNA Quantification for RNA-Seq of Cancer Samples] \n
+        ISMB 2018, Chicago, 2018 (Poster)\n
+        H. zheng, K. Brennan, M. Hernaez and O. Gevaert
+
+	 - [ SPRING: A practical compressor for short-read FASTQ data] \n
+        ISMB 2018, Chicago, 2018 (Poster))\n
+        S. Chandak, K. Tatwawadi, I. Ochoa, M. Hernaez and T. Weissman
+
+
 	- [ MPEG-G the emerging standard for genomic data compression] \n
 	Rocky 2017 Bioinformatics Conference, Aspen, 2017 (Oral)\n
 	M. Hernaez, C. Alberti, M. Mattavelli and I. Ochoa
@@ -140,8 +149,4 @@ A Novel Scheme for Message-Forwarding in Multi-Hop Ad-Hoc Wireless Networks] \n
 
 == PhD Thesis
 
-	- [papers/genomic-data-compression_v1-augmented_pdf.pdf Genomic Data Compression and Processing: Theory, Models, Algorithms, and Experiments]
-
-== Master Thesis
-
-        - [papers/pfc_idoia.pdf Iterative Decoding Techniques for the Relay Channel]
+	- [Thesis_Mikel_Hernaez.pdf Joint Network-Channel Coding Schemes for Relay Networks]
