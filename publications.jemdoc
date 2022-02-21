@@ -6,20 +6,76 @@
 
 == Pre Prints
 
-	 - [https://www.biorxiv.org/content/early/2018/04/25/307884 Comparison of single gene and module-based methods for modeling gene regulatory networks] \n
-        Biorxiv, 2018\n
-        M. Hernaez and O. Gevaert
+	 - [https://www.biorxiv.org/content/10.1101/2021.09.08.459384v2 Transcriptional regulation of HSCs in Aging and MDS reveals DDIT3 as a Potential Driver of Dyserythropoiesis] \n
+        Biorxiv, 2022 \n
+        Nerea Berastegui, Marina Ainciburu, \[...]\, Guillermo Serrano, Aintzane Diaz-Mazkiaran, Mikel Hernaez, \[...\], Teresa Ezponda,  Felipe Prosper\n
 
-	- [https://www.biorxiv.org/content/biorxiv/early/2018/01/09/241869.full.pdf Benchmark of lncRNA Quantification for RNA-Seq of Cancer Samples] \n
-	Biorxiv, 2018\n
-	H. Zheng, K. Brennan, M. Hernaez and O. Gevaert 
+	- [https://www.biorxiv.org/content/10.1101/2021.07.30.454542v1 Uncovering perturbations in human hematopoiesis associated with healthy aging and myeloid malignancies at single cell resolution] \n
+	Biorxiv, 2022\n
+	Marina Ainciburu, Teresa Ezponda, Nerea Berastegui, \[...]\, Mikel Hernaez, Juan P. Romero, Felipe Prosper \n
 
+	- [https://www.medrxiv.org/content/10.1101/2022.01.19.22269515v1 CAR Density Influences Antitumoral Efficacy of BCMA CAR T cells and Correlates with Clinical Outcome]\n
+	MedRxiv, 2022\n
+	Paula Rodriguez-Marquez,  Maria E. Calleja-Cervantes,  Guillermo Serrano, \[...\], Mikel Hernaez (\$),  Juan R. Rodriguez-Madoz, Felipe Prosper\n
 
+ 
 == Journal Publications and Conference Proceedings
 
-	  - AliCo:  a new efficient representation for SAM files \n
-        Data Compression Conference (DCC), 2019 (Accepted)\n
-        I. Ochoa, H. Li, F. Baumgarte,C. Hergenrother, J. Voges and M. Hernaez(\$)
+	- [https://www.biorxiv.org/content/10.1101/2020.10.06.327601v1 JIND: Joint Integration and Discrimination for Automated Single-Cell Annotation]\n
+	Bioinformatics (in press), 2022\n
+	Mohit Goyal, Guillermo Serrano, Josepmaria Argemi, Ilan Shomorony, Mikel Hernaez (\$), Idoia Ochoa\n
+
+	- [https://www.biorxiv.org/content/10.1101/2020.04.03.023002v2 A single-cell gene regulatory network inference method for identifying complex regulatory dynamics across cell phenotypes]\n
+	Communications Biology (in press), 2022\n
+	Jianhao Peng, Guillermo Serrano, Ian M. Traniello, Maria E. Calleja-Cervantes, Ullas V. Chembazhi, Sushant Bangru, Teresa Ezponda, Juan Roberto Rodriguez-Madoz, Auinash Kalsotra, Felipe Prosper, Idoia Ochoa, Mikel Hernaez (\$)\n
+
+	- [https://ieeexplore.ieee.org/abstract/document/9455132 An introduction to MPEG-G: The first open ISO/IEC standard for the compression and exchange of genomic sequencing data] \n
+	Proceedings of the IEEE, 2021\n
+	J Voges, M Hernaez (\#), M Mattavelli, J Ostermann\n
+
+	- [https://www.nature.com/articles/s43588-021-00089-w Towards scalable genomic data access]\n
+	Nature Computational Science, 2021\n
+	M. Hernaez (\$)\n
+
+	- [https://genome.cshlp.org/content/early/2021/03/01/gr.267013.120 Cellular plasticity balances the metabolic and proliferation dynamics of a regenerating liver] \n
+	Genome Research, 2021\n
+	UV Chembazhi, S Bangru, M Hernaez, A Kalsotra\n
+
+	- [https://pubmed.ncbi.nlm.nih.gov/32938284/ CROMqs: An infinitesimal successive refinement lossy compressor for the quality scores]\n
+	Journal of Bioinformatics and Computational Biology, 2020\n
+	A. No, M. Hernaez, I. Ochoa
+
+	- [https://academic.oup.com/bioinformatics/article/36/18/4810/5865850 GPress: a framework for querying general feature format (GFF) files and expression files in a compressed form] \n
+	Bioinformatics, 2020 \n
+	Q. Meng, I Ochoa, M Hernaez(\$)
+
+	- [https://ascopubs.org/doi/pdfdirect/10.1200/CCI.19.00125 Imaging-AMARETTO: An imaging genomics software tool to interrogate multiomics networks for relevance to radiography and histopathology imaging biomarkers of clinical outcomes]\n
+	JCO clinical cancer Informatics, 2020\n
+	Olivier Gevaert, Mohsen Nabian, Shaimaa Bakr, Celine Everaert, Jayendra Shinde, Artur Manukyan, Ted Liefeld, Thorin Tabor, Jishu Xu, Joachim Lupberger, Brian J Haas, Thomas F Baumert, Mikel Hernaez, Michael Reich, Francisco J Quintana, Erik J Uhlmann, Anna M Krichevsky, Jill P Mesirov, Vincent Carey, Nathalie Pochet	
+
+	- [https://academic.oup.com/bioinformatics/article/36/7/2275/5674036 GABAC: an arithmetic coding solution for genomic data] \n
+	Bioinformatics, 2020 \n
+	J. Voges, T. Paridaens, F. Müntefering, L. S. Mainzer, B. Bliss, M. Yang, I. Ochoa, J. Fostier, J. Ostermann, M. Hernaez(\$)
+
+	- [https://www.nature.com/articles/s41598-019-51418-z Denoising of Aligned Genomic Data] \n
+	Scientific Reports, 2019\n
+	I. fischer-Hwang, I. Ochoa, T. Weissman, M. Hernaez (\$)
+	
+        - [https://www.annualreviews.org/doi/10.1146/annurev-biodatasci-072018-021229 Genomic data compression] \n
+	Annual Review of Biomedical Data Science, 2019 \n
+	M. Hernaez(\$), D. Pavlichin, T. Weissman, I. Ochoa 
+	
+	- [https://pubmed.ncbi.nlm.nih.gov/31287491/ Comparison of single gene and module-based methods for modeling gene regulatory networks] \n
+        Bioinformatics, 2020\n
+        M. Hernaez(\$), C. Blatti and O. Gevaert
+
+        - [https://pubmed.ncbi.nlm.nih.gov/31808800/ Benchmark of lncRNA Quantification for RNA-Seq of Cancer Samples] \n
+        GigaScience, 2019\n
+        H. Zheng, K. Brennan, M. Hernaez and O. Gevaert
+
+	  - [https://ieeexplore.ieee.org/document/8712770 AliCo:  a new efficient representation for SAM files] \n
+        Data Compression Conference (DCC), 2019\n
+        I. Ochoa, H. Li, F. Baumgarte, C. Hergenrother, J. Voges and M. Hernaez(\$)
 
 	  - [https://doi.org/10.1093/bioinformatics/bty1015 SPRING: A next-generation compressor for FASTQ data] \n
         Bioinformatics, bty1015, 2018\n

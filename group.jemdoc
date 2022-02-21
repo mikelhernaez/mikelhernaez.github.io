@@ -1,32 +1,42 @@
 # jemdoc: menu{menu.jemdoc}{index.html}
 = Group
 
-== Co-advised students
-	: {} Jan Voges, Leibniz Universität Hannover and University of Illinois at Urbana-Champaign
-	: {} Fabian Munterferring, University of Illinois at Urbana-Champaign and Leibniz Universität Hannover
-	: {} Waqar Arif, University of Illinois at Urbana-Champaign
-	: {} Jianhao Peng, University of Illinois at Urbana-Champaign
+== Students
+        : {} Jesus de la Fuente (co-advised by Prof. Idoia Ochoa, Electrical Eng., TECNUN University of Navarra)
+        : {} Aintzane Diaz-Mazkiaran (co-advised by Dr. Felipe Prosper, Hemato-oncology and cell therapy, Clinica Universidad de Navarra)
+        : {} Guillermo Serrano (co-advised by Dr. Elisabet Guruceaga, Comp. Biology, CIMA University of Navarra)
+        : {} Irene Marin (co-advised by Prof. Liewei Wang, Mayo Clinic)
+	: {} Enrique Goñi (co-advised by Dr. Maite Huarte, Gene Therapy, CIMA University of Navarra)
+	: {} Uxia Veleiro (co-advised by Dr. Antonio Pineda, Molecular Therapies, CIMA University of Navarra)
 
 == Postdocs
-	: {} Charles Blatti, University of Illinois at Urbana-Champaign
+	: {} Carlos Ruiz (Universitat Pompeu Fabra)
 
-== Collaborators
+== Alumni
+	: {} Charles Blatti [postdoc], University of Illinois at Urbana-Champaign
+	: {} Jianhao Peng [co-advised student], University of Illinois at Urbana-Champaign
+	: {} Jan Voges [co-advised student], Leibniz Universität Hannover
 
-	: {} [http://web.stanford.edu/~tsachy/index.html Tsachy Weissman], Stanford University
+== External Collaborators
+
+	: {} [https://www.mayo.edu/research/faculty/wang-liewei-m-d-ph-d/bio-00027513] Liewei Wang, Mayo Clinic
+
+	: {} [http://www.kalarikrlab.org Rani Kalari], Mayo Clinic
 	
-	: {} [https://med.stanford.edu/profiles/euan-ashley Euan Ashley], Stanford University
+	: {} [https://math.nyu.edu/~cfgranda/ Carlos Fernandez-Granda], Center for Data Science NYU.
 	
 	: {} [https://med.stanford.edu/profiles/olivier-gevaert Olivier Gevaert], Stanford University
 	
-	: {} [https://www.ece.illinois.edu/directory/profile/milenkov Olgica Milenkovic], University of Illinois at Urbana-Champaign
-	
-	: {} [http://idoia.ece.illinois.edu/ Idoia Ochoa], University of Illinois at Urbana-Champaign
+	: {} [https://kalsotralab.web.illinois.edu Auinash Kalsotra], University of Illinois at Urbana-Champaigin
 
-	: {} [https://people.epfl.ch/marco.mattavelli?lang=en Marco Mattavelli], EPFL
+	: {} [https://lsi.princeton.edu/ian-traniello Ian Traniello], Princeton University
 	
 	: {} [https://www.tnt.uni-hannover.de/staff/osterman/ Jorn Ostermann], Leibniz 
 Universität Hannover
 	: {} [https://imp.upc.edu/en/members/jaime-delgado Jaime Delgado], Universitat Politècnica de Catalunya (UPC)
+	
+	: {} [http://web.stanford.edu/~tsachy/index.html Tsachy Weissman], Stanford University
+	
 
 
 

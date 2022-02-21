@@ -1,7 +1,11 @@
 # jemdoc: menu{menu.jemdoc}{index.html}
 = US Patents
 
-	- *A Universal Compressor for Genomic Re-Sequencing Data*\n
-	Stanford’s OTL - The Office of Technology Licensing, June 2014\n
-	I. Ochoa and M. Hernaez
+	- *Systems and Methods for Compressing Genetic Sequencing Data and Uses Thereof*\n
+	US Patent App. 16/545,751, 2020\n
+	Shubham Chandak, Kedar Shriram Tatwawadi, Tsachy Weissman, Idoia Ochoa, Mikel Hernaez
+
+	 - *Method for encoding and decoding of quality values of a data structure*\n
+        US Patent App. 16/341,307, 2021\n
+        Jan Voges, Mikel Hernaez, Jörn Ostermann
  
