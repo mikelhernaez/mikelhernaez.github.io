@@ -1,215 +1,178 @@
 # jemdoc: menu{menu.jemdoc}{index.html}
-= Publications
+= Relevant publications by topic
 
-- (\#): Co-first author
-- (\$): (Co-)Corresponding author
+- (\*): Corresponding author
+- (†): (Co-)First Author
 
 == Pre Prints
 
-	 - [https://www.biorxiv.org/content/10.1101/2021.09.08.459384v2 Transcriptional regulation of HSCs in Aging and MDS reveals DDIT3 as a Potential Driver of Dyserythropoiesis] \n
-        Biorxiv, 2022 \n
-        Nerea Berastegui, Marina Ainciburu, \[...]\, Guillermo Serrano, Aintzane Diaz-Mazkiaran, Mikel Hernaez, \[...\], Teresa Ezponda,  Felipe Prosper\n
+	- [https://arxiv.org/abs/2311.11991 Sweetwater: An interpretable and adaptive autoencoder for efficient tissue deconvolution]\n
+	J. de la Fuente†, N. Legarra†, G. Serrano, I. Marin-Goni, A. Diaz-Mazkiaran, M. Benito, A. Garcia-Osta, K. R Kalari, C. Fernandez-Granda, I. Ochoa\*, *M. Hernaez\**\n
+	/arXiv/, 2024
 
-	- [https://www.biorxiv.org/content/10.1101/2021.07.30.454542v1 Uncovering perturbations in human hematopoiesis associated with healthy aging and myeloid malignancies at single cell resolution] \n
-	Biorxiv, 2022\n
-	Marina Ainciburu, Teresa Ezponda, Nerea Berastegui, \[...]\, Mikel Hernaez, Juan P. Romero, Felipe Prosper \n
-
-	- [https://www.medrxiv.org/content/10.1101/2022.01.19.22269515v1 CAR Density Influences Antitumoral Efficacy of BCMA CAR T cells and Correlates with Clinical Outcome]\n
-	MedRxiv, 2022\n
-	Paula Rodriguez-Marquez,  Maria E. Calleja-Cervantes,  Guillermo Serrano, \[...\], Mikel Hernaez (\$),  Juan R. Rodriguez-Madoz, Felipe Prosper\n
+	- [https://arxiv.org/pdf/2311.12670 Towards a more inductive world for drug repurposing approaches]\n
+	J. de la Fuente†, G. Serrano†, U. Veleiro†, M. Casals, L. Vera, M. Pizurica, N. Gómez-Cebrián, L. Puchades-Carrasco, A. Pineda-Lucena, I. Ochoa, S. Vicent, O. Gevaert\*, *M. Hernaez\**\n
+	/arXiv/, 2024
 
  
-== Journal Publications and Conference Proceedings
+== Novel insights into the (patho)physiology of diseases via Machine Learning
 
-	- [https://www.biorxiv.org/content/10.1101/2020.10.06.327601v1 JIND: Joint Integration and Discrimination for Automated Single-Cell Annotation]\n
-	Bioinformatics (in press), 2022\n
-	Mohit Goyal, Guillermo Serrano, Josepmaria Argemi, Ilan Shomorony, Mikel Hernaez (\$), Idoia Ochoa\n
+    - [https://www.nature.com/articles/s41467-024-54005-7 Uncovering functional lncRNAs by scRNA-seq with ELATUS]\n
+    E. Goñi, A. M. Mas , J. Gonzalez, \[...\] , Maite Huarte\*, *M. Hernaez\**\n
+    /Nature Communications/, 2024 
+    
+    - [https://www.nature.com/articles/s41467-024-49529-x Single-cell transcriptional profile of CD34+ hematopoietic progenitor cells from del(5q) Myelodysplastic Syndromes and impact of lenalidomide]\n
+    G. Serrano†, N. Berastegi†, A. Diaz-Mazkiaran†, \[...\], F. Prosper\*, T. Ezponda\*, *M. Hernaez\**\n
+    /Nature Communications/, 2024
+    
+    - [https://aacrjournals.org/cancerres/article/83/8/1361/725101/Bayesian-Machine-Learning-Enables-Identification Identification of transcriptional network disruptions in drug-resistant metastatic prostate cancer with TraRe]\n
+    C. Blatti†, J. de la Fuente†, H. Gao, I. Marin, Z. Chen, S. D. Zhao, W. Tan, R. Weinshilbaum, K. R. Kalari, L. Wang\*, *M. Hernaez\**\n
+    /Cancer Research/, 2023\n
 
-	- [https://www.biorxiv.org/content/10.1101/2020.04.03.023002v2 A single-cell gene regulatory network inference method for identifying complex regulatory dynamics across cell phenotypes]\n
-	Communications Biology (in press), 2022\n
-	Jianhao Peng, Guillermo Serrano, Ian M. Traniello, Maria E. Calleja-Cervantes, Ullas V. Chembazhi, Sushant Bangru, Teresa Ezponda, Juan Roberto Rodriguez-Madoz, Auinash Kalsotra, Felipe Prosper, Idoia Ochoa, Mikel Hernaez (\$)\n
+    - [https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1270843/full Optimization of a universal allogeneic CAR-T cells combining CRISPR and transposon-based technologies for treatment of Acute Myeloid Leukemia]\n
+ C. Calviño†, C. Ceballos†, A. Alfonso†, P. Jauregui, \[...\], *M. Hernaez\**, F. Prosper\*, J. R. Rodriguez-Madoz\*\n
+	/Frontiers in Immunology/, 2023
+    
+    - [https://www.science.org/doi/10.1126/sciadv.abo0514 CAR Density Influences Antitumoral Efficacy of BCMA CAR T cells and Correlates with Clinical Outcome]\n
+    P. Rodriguez-Marquez†,  M. E. Calleja-Cervantes†,  G. Serrano†, \[...\], *M. Hernaez\**,  J. R. Rodriguez-Madoz\*, F. Prosper\*\n
+    /Science Advances/, 2022 (Oral Presentation at ASH 2022)\n
+    
+    - [https://genome.cshlp.org/content/early/2021/03/01/gr.267013.120 Cellular plasticity balances the metabolic and proliferation dynamics of a regenerating liver] \n
+    U. V. Chembazhi, S. Bangru, *M. Hernaez*, A. Kalsotra\n
+    /Genome Research/, 2021
+    
+    - [https://academic.oup.com/gigascience/article/8/12/giz145/5663671 Benchmark of lncRNA Quantification for RNA-Seq of Cancer Samples] \n
+    H. Zheng, K. Brennan, *M. Hernaez*, O. Gevaert\n
+    /GigaScience/, 2019\n
+    
+== (Graph) Representation Learning in biomedicine
+    
+    - [https://academic.oup.com/nar/article/52/9/e44/7643294 NetActivity enhances transcriptional signals by combining gene expression into robust gene set activity scores through interpretable autoencoders]\n
+    C. Ruiz-Arenas, I. Marin, L. Wang, I. Ochoa, J.L. Perez-Jurado\*, *M. Hernaez\**\n
+    /Nucleic Acids Research/, 2024
+    
+    - [https://academic.oup.com/bioinformatics/article/40/1/btad774/7491592 GeNNius: An ultrafast drug-target interaction inference method based on graph neural networks]\n
+    U. Veleiro, J. De la Fuente, G. Serrano, \[...\], I. Ochoa, G. Gevaert\*, *M. Hernaez\**\n
+    /Bioinformatics/, 2024\n
+    
+    - [https://academic.oup.com/bioinformatics/article/38/9/2488/6543609 JIND: Joint Integration and Discrimination for Automated Single-Cell Annotation]\n
+    M. Goyal, G. Serrano, J. Argemi, I. Shomorony, *M. Hernaez\**, I. Ochoa\*\n
+    /Bioinformatics/, 2022\n
+    
+    - [https://www.nature.com/articles/s42003-022-03319-7 SimiC enables the inference of complex gene regulatory dynamics across cell phenotypes]\n
+    J. Peng†, G. Serrano†, I. M. Traniello, M. E. Calleja-Cervantes, \[...\], I. Ochoa\*, *M. Hernaez\**\n
+    /Communications Biology/, 2022\n
+    
+    - [https://academic.oup.com/bioinformatics/article/36/2/558/5530163 Comparison of single gene and module-based methods for modeling gene regulatory networks]\n
+    *M. Hernaez\**, C. Blatti, O. Gevaert\*\n
+    /Bioinformatics/, 2020\n
+    
 
-	- [https://ieeexplore.ieee.org/abstract/document/9455132 An introduction to MPEG-G: The first open ISO/IEC standard for the compression and exchange of genomic sequencing data] \n
-	Proceedings of the IEEE, 2021\n
-	J Voges, M Hernaez (\#), M Mattavelli, J Ostermann\n
+== Genomic information representation
+
+	- [https://ieeexplore.ieee.org/abstract/document/9455132 An introduction to MPEG-G: The first open ISO\/IEC standard for the compression and exchange of genomic sequencing data] \n
+	J. Voges, *M. Hernaez*, M. Mattavelli, J. Ostermann\n
+	/Proceedings of the IEEE/, 2021\n
 
 	- [https://www.nature.com/articles/s43588-021-00089-w Towards scalable genomic data access]\n
-	Nature Computational Science, 2021\n
-	M. Hernaez (\$)\n
-
-	- [https://genome.cshlp.org/content/early/2021/03/01/gr.267013.120 Cellular plasticity balances the metabolic and proliferation dynamics of a regenerating liver] \n
-	Genome Research, 2021\n
-	UV Chembazhi, S Bangru, M Hernaez, A Kalsotra\n
-
-	- [https://pubmed.ncbi.nlm.nih.gov/32938284/ CROMqs: An infinitesimal successive refinement lossy compressor for the quality scores]\n
-	Journal of Bioinformatics and Computational Biology, 2020\n
-	A. No, M. Hernaez, I. Ochoa
-
-	- [https://academic.oup.com/bioinformatics/article/36/18/4810/5865850 GPress: a framework for querying general feature format (GFF) files and expression files in a compressed form] \n
-	Bioinformatics, 2020 \n
-	Q. Meng, I Ochoa, M Hernaez(\$)
-
-	- [https://ascopubs.org/doi/pdfdirect/10.1200/CCI.19.00125 Imaging-AMARETTO: An imaging genomics software tool to interrogate multiomics networks for relevance to radiography and histopathology imaging biomarkers of clinical outcomes]\n
-	JCO clinical cancer Informatics, 2020\n
-	Olivier Gevaert, Mohsen Nabian, Shaimaa Bakr, Celine Everaert, Jayendra Shinde, Artur Manukyan, Ted Liefeld, Thorin Tabor, Jishu Xu, Joachim Lupberger, Brian J Haas, Thomas F Baumert, Mikel Hernaez, Michael Reich, Francisco J Quintana, Erik J Uhlmann, Anna M Krichevsky, Jill P Mesirov, Vincent Carey, Nathalie Pochet	
+	*M. Hernaez* \n
+	/Nature Computational Science/, 2021\n
 
 	- [https://academic.oup.com/bioinformatics/article/36/7/2275/5674036 GABAC: an arithmetic coding solution for genomic data] \n
-	Bioinformatics, 2020 \n
-	J. Voges, T. Paridaens, F. Müntefering, L. S. Mainzer, B. Bliss, M. Yang, I. Ochoa, J. Fostier, J. Ostermann, M. Hernaez(\$)
+	J. Voges, T. Paridaens, F. Müntefering, L. S. Mainzer, B. Bliss, M. Yang, I. Ochoa, J. Fostier, J. Ostermann\*, *M. Hernaez\**\n
+	/Bioinformatics/, 2020 \n
+
+
+	- [https://academic.oup.com/bioinformatics/article/36/18/4810/5865850 GPress: a framework for querying general feature format (GFF) files and expression files in a compressed form] \n
+	Q. Meng, I. Ochoa*, *M. Hernaez\**\n
+	/Bioinformatics/, 2020 \n
+
+	- [https://academic.oup.com/bioinformatics/article/36/7/2275/5674036 GABAC: an arithmetic coding solution for genomic data] \n
+	J. Voges, T. Paridaens, F. Müntefering, L. S. Mainzer, B. Bliss, M. Yang, I. Ochoa, J. Fostier, J. Ostermann, *M. Hernaez\**\n
+	/Bioinformatics/, 2020 \n
+
+
+    - [https://www.annualreviews.org/doi/10.1146/annurev-biodatasci-072018-021229 Genomic data compression] \n
+	*M. Hernaez\**, D. Pavlichin, T. Weissman, I. Ochoa* \n
+	/Annual Review of Biomedical Data Science/, 2019 \n
 
 	- [https://www.nature.com/articles/s41598-019-51418-z Denoising of Aligned Genomic Data] \n
-	Scientific Reports, 2019\n
-	I. fischer-Hwang, I. Ochoa, T. Weissman, M. Hernaez (\$)
+	I. fischer-Hwang, I. Ochoa, T. Weissman, *M. Hernaez\**\n
+	/Scientific Reports/, 2019\n
 	
-        - [https://www.annualreviews.org/doi/10.1146/annurev-biodatasci-072018-021229 Genomic data compression] \n
-	Annual Review of Biomedical Data Science, 2019 \n
-	M. Hernaez(\$), D. Pavlichin, T. Weissman, I. Ochoa 
-	
-	- [https://pubmed.ncbi.nlm.nih.gov/31287491/ Comparison of single gene and module-based methods for modeling gene regulatory networks] \n
-        Bioinformatics, 2020\n
-        M. Hernaez(\$), C. Blatti and O. Gevaert
-
-        - [https://pubmed.ncbi.nlm.nih.gov/31808800/ Benchmark of lncRNA Quantification for RNA-Seq of Cancer Samples] \n
-        GigaScience, 2019\n
-        H. Zheng, K. Brennan, M. Hernaez and O. Gevaert
-
-	  - [https://ieeexplore.ieee.org/document/8712770 AliCo:  a new efficient representation for SAM files] \n
-        Data Compression Conference (DCC), 2019\n
-        I. Ochoa, H. Li, F. Baumgarte, C. Hergenrother, J. Voges and M. Hernaez(\$)
+	- [https://ieeexplore.ieee.org/document/8712770 AliCo:  a new efficient representation for SAM files] \n
+        I. Ochoa, H. Li, F. Baumgarte, C. Hergenrother, J. Voges and  *M. Hernaez\**
+        /Data Compression Conference (DCC)/, 2019\n
 
 	  - [https://doi.org/10.1093/bioinformatics/bty1015 SPRING: A next-generation compressor for FASTQ data] \n
-        Bioinformatics, bty1015, 2018\n
-        S. Chandak, K. Tatwawadi, I. Ochoa,  M. Hernaez(\$) and T. Weissman
-
-	- [https://doi.org/10.1093/bioinformatics/bty205 FaStore: a space-saving solution for raw sequencing data] \n	
-	Bioinformatics, btw437, 2018\n
-	Ł. Roguski, I. Ochoa, M. Hernaez and S. Deorowicz 
+        S. Chandak, K. Tatwawadi, I. Ochoa,  *M. Hernaez\** and T. Weissman
+        /Bioinformatics, 2018/\n
 
 	- [https://doi.org/10.1093/bioinformatics/btx737 CALQ: compression of quality values of aligned sequencing data]\n
-	Bioinformatics,  bty205, 2017\n
-	J. Voges, J. Ostermann and M. Hernaez(\$)
+	J. Voges, J. Ostermann and *M. Hernaez\**\n
+	/Bioinformatics/, 2017\n
 
 	- [http://ieeexplore.ieee.org/document/7923646/ GeneComp, a new reference-based compressor for SAM files] \n
-	Data Compression Conference (DCC), 2017\n
-	R. Long, M. Hernaez(\#), I. Ochoa and T. Weissman
-
-	- [http://bioinformatics.oxfordjournals.org/content/32/17/i479.long GTRAC: fast retrieval from compressed collections of genomic variants] \n
-	Bioinformatics, btw437, 2016 (presented at the European Conference on Computational Biology (ECCB))\n
-	K. Tatwawadi, M. Hernaez, I. Ochoa, and T. Weissman
+	R. Long, *M. Hernaez\**, I. Ochoa and T. Weissman\n
+	/Data Compression Conference (DCC)/, 2017\n
 
 	- [http://bib.oxfordjournals.org/content/early/2016/03/08/bib.bbw011 Effect of lossy compression of quality scores on variant calling] \n
-	Briefings in Bioinformatics, bbw011, 2016\n
-	I. Ochoa, M. Hernaez(\#,\$), R. Goldfeder, T. Weissman and E. Ashley 
-
-	- [http://ieeexplore.ieee.org/document/7606808/ CROMqs: an infinitesimal successive refinement lossy compressor for the quality scores] \n
-	IEEE Information Theory Workshop (ITW), UK, September, 2016\n
-	I. Ochoa, A. No, M. Hernaez, and T. Weissman
+	I. Ochoa, *M. Hernaez\**, R. Goldfeder, T. Weissman and E. Ashley\n
+	/Briefings in Bioinformatics/, 2016\n
 
 	- [http://ieeexplore.ieee.org/document/7786169/ Denoising of Quality Scores for Boosted Inference and Reduced Storage] \n
-	Data Compression Conference (DCC), 2016\n
-	I. Ochoa, M. Hernaez(\#), R. Goldfeder, T. Weissman and E. Ashley
+	I. Ochoa, *M. Hernaez\**, R. Goldfeder, T. Weissman and E. Ashley\n
+	/Data Compression Conference (DCC)/, 2016\n
 
 	- [http://ieeexplore.ieee.org/document/7786170/ A cluster-based approach to compression of Quality Scores]\n 
-	Data Compression Conference (DCC), 2016\n
-	M. Hernaez, I. Ochoa and T. Weissman
+	*M. Hernaez* , I. Ochoa and T. Weissman\n
+	/Data Compression Conference (DCC)/, 2016\n
 
 	- [http://ieeexplore.ieee.org/document/7786166/ A 
 An Evaluation Framework for Lossy Compression of Genome Sequencing Quality Values]\n 
-	Data Compression Conference (DCC), 2016\n
-	C. Alberti, N. Daniels, M. Hernaez(\#), J. Voges, R. L. Goldfeder, A. A. Hernandez-Lopez, M. Mattavelli, B. Berger
-
-	- [http://bioinformatics.oxfordjournals.org/content/32/7/1115.abstract Comment on: 'ERGC: An efficient referential genome compression algorithm'] \n
-	Bioinformatics, btv704, 2015\n
-	S. Deorowicz, S. Grabowski, I. Ochoa, M. Hernaez and T. Weissman 
+	C. Alberti, N. Daniels, *M. Hernaez\**, J. Voges, R. L. Goldfeder, A. A. Hernandez-Lopez, M. Mattavelli, B. Berger\n
+	/Data Compression Conference (DCC)/, 2016\n
 
 	- [http://bioinformatics.oxfordjournals.org/content/31/19/3122 QVZ: lossy compression of quality values] \n
-	Bioinformatics, btv330, 2015\n
-	G. Malysa, M. Hernaez(\#,\$), I. Ochoa, M. Rao, K. Ganesan and T. Weissman
-
-	- [https://link.springer.com/article/10.1186/s13638-015-0372-8 Design of a new scheme for multi-hop wireless networks using decode-and-forward strategy] \n
-	EURASIP Journal on Wireless Communications and Networking, Vol. 136, 2015\n
-	I. Alustiza, M. Hernaez and P. M. Crespo
-
-	- [https://www.ncbi.nlm.nih.gov/pubmed/25395305 Aligned genomic data compression via improved modeling] \n
-	Journal of bioinformatics and computational biology, Vol. 12, No. 6, 2014 (presented at the GIW ISCB-Asia, Japan, December 2014)\n
-	I. Ochoa, M. Hernaez(\#,\$) and T. Weissman
-
-	- [http://bioinformatics.oxfordjournals.org/content/31/5/626.long iDoComp: a compression scheme for assembled genomes] \n
-	Bioinformatics, btu698, 2014\n
-	I. Ochoa, M. Hernaez(\#,\$) and T. Weissman
+	G. Malysa, *M. Hernaez\**, I. Ochoa, M. Rao, K. Ganesan and T. Weissman\n
+	/Bioinformatics/, 2015\n
+ 
+     - [http://bioinformatics.oxfordjournals.org/content/31/5/626.long iDoComp: a compression scheme for assembled genomes] \n
+   	I. Ochoa, *M. Hernaez\** and T. Weissman\n
+    	/Bioinformatics/, 2014\n
+    
+    - [https://www.ncbi.nlm.nih.gov/pubmed/25395305 Aligned genomic data compression via improved modeling] \n
+    I. Ochoa, M. Hernaez(\#,\$) and T. Weissman\n
+   /Journal of bioinformatics and computational biology/, 2014 (presented at the GIW ISCB-Asia, 2014)\n
+    
+== Network Information Theory (PhD Thesis)
 
 	- [http://ieeexplore.ieee.org/document/6330081/ On the Design of a Novel Joint Network-Channel Coding Scheme for the Multiple Access Relay Channel] \n
-	IEEE Journal on Selected Areas in Communications, Vol. 31, No. 8, 2013\n
-	M. Hernaez, P. M. Crespo and J. Del Ser
+	*M. Hernaez*, P. M. Crespo and J. Del Ser\n
+	/IEEE Journal on Selected Areas in Communications/, 2013\n
 
 	- [http://ieeexplore.ieee.org/document/6692030/ 
  A Decode-and-Forward Scheme for Multihop Wireless Networks] \n
-	IEEE 78rd Vehicular Technology Conference (VTC Spring), 2013\n
-	M. Hernaez, P. M. Crespo and J. Del Ser
-
-	- [http://ieeexplore.ieee.org/document/6530098/  
- Teaching information theory via a simulation tool for communications systems] \n
-	IEEE Global Engineering Education Conference (EDUCON), 2013\n
-	I. Alustiza, M. Hernaez, X. Insausti and P. M. Crespo
+	*M. Hernaez*, P. M. Crespo and J. Del Ser\n
+	/IEEE 78rd Vehicular Technology Conference (VTC Spring)/, 2013\n
 
 	- [http://ieeexplore.ieee.org/document/6259797/ A Flexible Channel Coding Approach for Short-Length Codewords] \n
-	IEEE Communications Letters, Vol. 16, No. 9, 2012\n
-	M. Hernaez, P. M. Crespo and J. Del Ser
+	*M. Hernaez*, P. M. Crespo and J. Del Ser\n
+	/IEEE Communications Letters/, 2012\n
 
 	- [http://ieeexplore.ieee.org/document/5956446/  
 A Novel Scheme for Message-Forwarding in Multi-Hop Ad-Hoc Wireless Networks] \n
-	IEEE 73rd Vehicular Technology Conference (VTC Spring), 2011\n
-	M. Hernaez and P. M. Crespo
+	*M. Hernaez* and P. M. Crespo\n
+	/IEEE 73rd Vehicular Technology Conference (VTC Spring)/, 2011\n
 
 	- [http://ieeexplore.ieee.org/document/5956367/  
  Joint Non-Binary LDPC-BICM and Network Coding with Iterative Decoding for the Multiple Access Relay Channel] \n
-	IEEE 73rd Vehicular Technology Conference (VTC Spring), 2011\n
-	M. Hernaez, P. M. Crespo and J. Del Ser
-
-	- [http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5572892 LDPC Codes for Non-Uniform Memoryless Sources and Unequal Energy Allocation]  ([papers/2010_ldpc_paper.pdf PDF])\n
-	IEEE Communications Letters, Vol. 14, No. 9, 2010\n
-	I. Ochoa, P. Crespo and M. Hernaez
-
-	- [http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5439357 Turbo Joint Source-Channel Coding of NonUniform Memoryless Sources in the Bandwidth-Limited Regime] ([papers/2010_turbo_paper.pdf PDF])\n
-	IEEE Communications Letters, Vol. 14, No. 4, 2010\n
-	I. Ochoa, P. Crespo, J. Del Ser and M. Hernaez
+	*M. Hernaez*, P. M. Crespo and J. Del Ser\n
+	/IEEE 73rd Vehicular Technology Conference (VTC Spring)/, 2011\n
 
 	- [http://ieeexplore.ieee.org/document/5288464/ Serially-Concatenated LDGM Codes for Correlated Sources over Gaussian Broadcast Channels] \n
-	IEEE Communications Letters, Vol. 13, No. 10, 2009\n
-	M. Hernaez, P. M. Crespo, J. Del Ser and J. Garcia-Frias
-
-== Conference Presentations (non-proceedings) and Posters
-
-
-	- [ Benchmark of lncRNA Quantification for RNA-Seq of Cancer Samples] \n
-        ISMB 2018, Chicago, 2018 (Poster)\n
-        H. zheng, K. Brennan, M. Hernaez and O. Gevaert
-
-	 - [ SPRING: A practical compressor for short-read FASTQ data] \n
-        ISMB 2018, Chicago, 2018 (Poster))\n
-        S. Chandak, K. Tatwawadi, I. Ochoa, M. Hernaez and T. Weissman
-
-
-	- [ MPEG-G the emerging standard for genomic data compression] \n
-	Rocky 2017 Bioinformatics Conference, Aspen, 2017 (Oral)\n
-	M. Hernaez, C. Alberti, M. Mattavelli and I. Ochoa
-
-	- [ The Regulatory power of lincRNAs] \n
-	Rocky 2017 Bioinformatics Conference, Aspen, 2017 (Poster)\n
-	M. Hernaez and O. Gevaert
-
-	- [ CALQ: compression of quality values of aligned sequencing data]\n
-	ISMB-ECCB, Prague, 2017 (Poster)\n
-	J. Voges, J. Ostermann and M. Hernaez
-
-	- [ Turbo Joint Source-Channel Coding of Cycle-Stationary Sources in the Bandwidth-Limited Regime] \n
-	The 2nd International Conference on Mobile Lightweight Wireless Systems (MOBILIGHT), Spain, May 2010 (Oral)\n
-	I. Ochoa, P. Crespo, J. Del Ser and M. Hernaez
-
-	- [ Codigos LDGM concatenados para la transmision de fuentes correlacionadas para canales de difusion] \n
-	XXIV National Assembly of the International Union of Radio Science (URSI), Spain, September 2009 (Oral)\n
-	M. Hernaez, P. Crespo, J. Del Ser and I. Ochoa
-
+	*M. Hernaez*, P. M. Crespo, J. Del Ser and J. Garcia-Frias\n
+	/IEEE Communications Letters/, 2009\n
 
 == PhD Thesis
 

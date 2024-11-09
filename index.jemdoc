@@ -1,33 +1,65 @@
 # jemdoc: menu{menu.jemdoc}{index.html}
-= Mikel Hernaez
+= Mikel Hernaez - Machine Learning for BioMedicine (ML4BM) group
 
 ~~~
 {}{img_left}{IMG_0894.jpg}{Mikel Hernaez}{}{}{}
 
-Head and Principal Investigator\n 
-[https://cima.cun.es/en/research/research-programs/computational-biology-research-programs Computational Biology Program]\n
-[https://cima.cun.es/en/ CIMA University of Navarra]\n
+Principal Investigator, [https://cima.cun.es/en/research/research-programs/computational-biology-research-programs/research-group-machine-learning-biomedicine Machine Learning for Biomedicine (ML4BM) Group ]\n
+Director, [https://cima.cun.es/en/research/research-programs/computational-biology-research-programs/research-group-machine-learning-biomedicine Computational Biology Program]\n
+[https://cima.cun.es/en/ CIMA University of Navarra], Spain\n
 
-Affiliate Faculty\n
-[http://www.igb.illinois.edu Carl R. Woese Institute for Genomic Biology]\n
-[http://www.illinois.edu/ University of Illinois at Urbana-Champaign]\n
+Adjunct Professor, [https://en.unav.edu/web/department-of-physics-and-applied-mathematics Department of Physics and Applied Mathematics]\n
+Adjunct Professor (by courtesy), [https://en.unav.edu/web/department-of-biochemistry-and-genetics Department of Biochemistry and genetics]\n
+[https://en.unav.edu/inicio University of Navarra], Spain\n
 
-~~~
-
-My main interests are in the field of
-- Computational biology
-- Machine Learning
-- Single Cell Omics
-- Gene Regulatory Dynamics
-- Data compression
-- Information theory and coding.
-
-
- 
-#We just released the webiste of [https://mitogen.github.io MITOGEN (Mutual Initiative to Tackle Optimal Genomic ENcoding)]: [https://mitogen.github.io https://mitogen.github.io]. It contains the joint work performed by the academics working on MPEG-G, including the papers and github repositories of the work relevant to MPEG-G. Note that some projects are still under develop, such as GABAC and Genie. Enjoy! 
+Our group focuses on developing and applying machine learning models, with an emphasis on (graph) representation learning, to solve open biomedical questions in the context of advance lethal diseases. We aim at taking deep learning models to the clinical practice to accelerate the path towards personalize medicine.
 
 ~~~
 
+
+== Recent Publications
+
+    - [https://www.nature.com/articles/s41467-024-54005-7 Uncovering functional lncRNAs by scRNA-seq with ELATUS]\n
+    E. Goñi , A. M. Mas , J. Gonzalez, \[...\] , Maite Huarte\*, *M. Hernaez\**\n
+    /Nature Communications/, 2024 
+    
+    - [https://www.nature.com/articles/s41467-024-49529-x Single-cell transcriptional profile of CD34+ hematopoietic progenitor cells from del(5q) Myelodysplastic Syndromes and impact of lenalidomide]\n
+    G. Serrano, N. Berastegi, A. Diaz-Mazkiaran, \[...\], F. Prosper\*, T. Ezponda\*, *M. Hernaez\**\n
+    /Nature Communications/, 2024
+
+    - [https://academic.oup.com/nar/article/52/9/e44/7643294 NetActivity enhances transcriptional signals by combining gene expression into robust gene set activity scores through interpretable autoencoders]\n
+    C. Ruiz-Arenas, I. Marin, L. Wang, I. Ochoa, J.L. Perez-Jurado\*, *M. Hernaez\**\n
+    /Nucleic Acids Research/, 2024
+
+    - [https://academic.oup.com/bioinformatics/article/40/1/btad774/7491592 GeNNius: An ultrafast drug-target interaction inference method based on graph neural networks]\n
+    U. Veleiro, J. De la Fuente, G. Serrano, \[...\], I. Ochoa, G. Gevaert\*, *M. Hernaez\**\n
+    /Bioinformatics/, 2024\n
+    
+    - [https://aacrjournals.org/cancerres/article/83/8/1361/725101/Bayesian-Machine-Learning-Enables-Identification Identification of transcriptional network disruptions in drug-resistant metastatic prostate cancer with TraRe]\n
+    C. Blatti, J. de la Fuente, H. Gao, I. Marin, Z. Chen, S. D. Zhao, W. Tan, R. Weinshilbaum, K. R. Kalari, L. Wang\*, *M. Hernaez\**\n
+    /Cancer Research/, 2023\n
+    
+    - [https://www.science.org/doi/10.1126/sciadv.abo0514 CAR Density Influences Antitumoral Efficacy of BCMA CAR T cells and Correlates with Clinical Outcome]\n
+    P. Rodriguez-Marquez,  M. E. Calleja-Cervantes,  G. Serrano, \[...\], *M. Hernaez\**,  J. R. Rodriguez-Madoz\*, F. Prosper\*\n
+    /Science Advances/, 2022 (Oral Presentation at ASH 2022)\n
+    
+    - [https://academic.oup.com/bioinformatics/article/38/9/2488/6543609 JIND: Joint Integration and Discrimination for Automated Single-Cell Annotation]\n
+    M. Goyal, G. Serrano, J. Argemi, I. Shomorony, *M. Hernaez\**, I. Ochoa\*\n
+    /Bioinformatics/, 2022\n
+    
+    - [https://www.nature.com/articles/s42003-022-03319-7 SimiC enables the inference of complex gene regulatory dynamics across cell phenotypes]\n
+    J. Peng, G. Serrano, I. M. Traniello, M. E. Calleja-Cervantes, \[...\], I. Ochoa\*, *M. Hernaez\**\n
+    /Communications Biology/, 2022\n
+
+	- [https://ieeexplore.ieee.org/abstract/document/9455132 An introduction to MPEG-G: The first open ISO\/IEC standard for the compression and exchange of genomic sequencing data] \n
+	J. Voges, *M. Hernaez*, M. Mattavelli, J. Ostermann\n
+	/Proceedings of the IEEE/, 2021\n
+
+	- [https://www.nature.com/articles/s43588-021-00089-w Towards scalable genomic data access]\n
+	*M. Hernaez* \n
+	/Nature Computational Science/, 2021\n
+
+~~~~
 == Contact
 
 mhernaez at unav dot es
@@ -36,6 +68,6 @@ CIMA UNIVERSIDAD DE NAVARRA\n
 Av. Pio XII, 55\n
 Pamplona, Navarra, 31008
 SPAIN
-
+~~~~
 
 

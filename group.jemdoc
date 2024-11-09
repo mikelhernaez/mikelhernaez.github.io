@@ -1,41 +1,37 @@
 # jemdoc: menu{menu.jemdoc}{index.html}
 = Group
 
-== Students
-        : {} Jesus de la Fuente (co-advised by [http://idoia.ece.illinois.edu Prof. Idoia Ochoa], Electrical Eng., TECNUN University of Navarra)
-        : {} Aintzane Diaz-Mazkiaran (co-advised by [https://www.cun.es/en/our-professionals/doctors-medical-staff/felipe-prosper-cardoso Dr. Felipe Prosper], Hemato-oncology and Cell Therapy, Clinica Universidad de Navarra)
-        : {} Guillermo Serrano (co-advised by Dr. Elisabet Guruceaga, Comp. Biology, CIMA University of Navarra)
-        : {} Irene Marin (co-advised by [https://www.mayo.edu/research/faculty/wang-liewei-m-d-ph-d/bio-00027513 Prof. Liewei Wang], Mayo Clinic)
-	: {} Enrique Goñi (co-advised by [https://scholar.google.co.uk/citations?user=pKa6PnUAAAAJ&hl=en Dr. Maite Huarte], Gene Therapy, CIMA University of Navarra)
-	: {} Uxia Veleiro (co-advised by Dr. Antonio Pineda, Molecular Therapies, CIMA University of Navarra)
-
 == Postdocs
-	: {} Carlos Ruiz (Universitat Pompeu Fabra)
+	: {} [https://scholar.google.com/citations?user=UxXFj4MAAAAJ&hl=es Carlos Ruiz-Arenas]\n AECC Postdoctoral Fellow (Spanish National Cancer Association)
+    : {} [https://orcid.org/0000-0001-7550-2433 Nuria Planell]\n Junior Ramon y Cajal Fellow (Spanish National Carrer Award)
+
+== PhD Students
+    : {} [https://scholar.google.com/citations?user=uXbuO-sAAAAJ&hl=en Jesus de la Fuente] (jointly with [http://idoia.ece.illinois.edu Prof. Idoia Ochoa])\n Fulbright Fellow
+    : {} [https://scholar.google.es/citations?user=kKY2rcsAAAAJ&hl=es Aintzane Diaz-Mazkiaran] (jointly with [https://orcid.org/0000-0003-3682-7125 Dr. Teresa Ezponda])\n Navarra PhD Fellow
+    : {} [https://www.linkedin.com/in/enrique-goñi-2397a6a7/?originalSubdomain=es Enrique Goñi] (jointly with [https://scholar.google.co.uk/citations?user=pKa6PnUAAAAJ&hl=en Dr. Maite Huarte])\n Navarra Gov. PhD Fellow
+    : {} [https://scholar.google.com/citations?user=zYZhWWMAAAAJ&hl=es Irene Marin] (jointly with [https://www.mayo.edu/research/faculty/wang-liewei-m-d-ph-d/bio-00027513 Prof. Liewei Wang])\n La Caixa Fellow, and National PhD Fellow (FPU)
+    : {} [https://uxiaveleiro.github.io Uxia Veleiro] (jointly with [https://scholar.google.ca/citations?user=Bc5cBtYAAAAJ&hl=en Dr. Antonio Pineda])\n Supported by the Palatchi Foundation
+    : {} [https://www.linkedin.com/in/sergio-cámara-peña-86a45522a/?originalSubdomain=es Sergio Camara] (jointly with [https://scholar.google.es/citations?user=J9TsGwkAAAAJ&hl=en Dr. Juan Roberto Rodriguez-Madoz])\n National PhD Fellow (FPU) 
+    : {} [https://www.linkedin.com/in/naroa-legarra-marcos-msc-2a7b18208/?originalSubdomain=es Naroa Legarra] (jointly with [https://scholar.google.es/citations?user=J9TsGwkAAAAJ&hl=en Dr. Ana Garcia-Osta] and [http://idoia.ece.illinois.edu Prof. Idoia Ochoa])\n Ramon Areces PhD Fellow 
+    : {} [https://www.linkedin.com/in/raghad-shuwaikan/ Raghad Shuwaikan]\n Supported by the Riney Foundation
+    : {} [https://www.linkedin.com/in/luis-alonso-esteban-784469206/?locale=es_ES Luis Alonso] (jointly with [http://idoia.ece.illinois.edu Prof. Idoia Ochoa])
+    : {} [https://cima.cun.es/en/research/research-programs/research-programs-hematological-oncology/research-group-myelodysplastic-neoplasia Roberto Sanchez] (jointly with [https://scholar.google.com/citations?user=sEXiO-MAAAAJ&hl=en Dr. Irene Ganan-Gomez])\n Supported by an Andia Scholarship, Gov. of Navarra
+    : {} [https://www.linkedin.com/in/alvaro-perona-lópez-de-heredia-aa6002247/?trk=public_post_comment_actor-image&originalSubdomain=es Alvaro Perona] (jointly with [https://scholar.google.es/citations?user=J9TsGwkAAAAJ&hl=en Dr. Juan Roberto Rodriguez-Madoz])\n Supported by a La Caixa Health Research Project
+
+== Masters Students
+
+ : {} David Garrido
+ : {} Cristina Li 
+ : {} Paula de Blas (jointly with [https://www.mayo.edu/research/faculty/wang-liewei-m-d-ph-d/bio-00027513 Prof. Liewei Wang])
+ : {} Itziar Baztan (jointly with [https://www.linkedin.com/in/sara-labiano-2a3582122/?originalSubdomain=es Dr. Sara Labiano])
+ : {} Gerson Arauz 
+ : {} Marina Sanz
+
+    
 
 == Alumni
-	: {} Charles Blatti \[postdoc\], University of Illinois at Urbana-Champaign
-	: {} Jianhao Peng \[co-advised student\], University of Illinois at Urbana-Champaign
-	: {} Jan Voges \[co-advised student\], Leibniz Universität Hannover
-
-== External Collaborators
-
-	: {} [https://www.mayo.edu/research/faculty/wang-liewei-m-d-ph-d/bio-00027513 Liewei Wang], Mayo Clinic
-
-	: {} [http://www.kalarikrlab.org Rani Kalari], Mayo Clinic
-	
-	: {} [https://math.nyu.edu/~cfgranda/ Carlos Fernandez-Granda], Center for Data Science NYU.
-	
-	: {} [https://med.stanford.edu/profiles/olivier-gevaert Olivier Gevaert], Stanford University
-	
-	: {} [https://kalsotralab.web.illinois.edu Auinash Kalsotra], University of Illinois at Urbana-Champaigin
-
-	: {} [https://lsi.princeton.edu/ian-traniello Ian Traniello], Princeton University
-	
-	: {} [https://www.tnt.uni-hannover.de/staff/osterman/ Jorn Ostermann], Leibniz 
-Universität Hannover
-	: {} [https://imp.upc.edu/en/members/jaime-delgado Jaime Delgado], Universitat Politècnica de Catalunya (UPC)
-	
-	: {} [http://web.stanford.edu/~tsachy/index.html Tsachy Weissman], Stanford University
+	: {} Charles Blatti \[postdoc\] (now at National Center for Supercomputing Applications - NCSA, Urbana-Champaign, USA)
+    : {} Guillermo Serrano \[PhD\] (now at KAUST, Saudi Arabia)
 	
 
 
