@@ -10,10 +10,6 @@
 	J. de la Fuente†, N. Legarra†, G. Serrano, I. Marin-Goni, A. Diaz-Mazkiaran, M. Benito, A. Garcia-Osta, K. R Kalari, C. Fernandez-Granda, I. Ochoa\*, *M. Hernaez\**\n
 	/arXiv/, 2024
 
-	- [https://arxiv.org/pdf/2311.12670 Towards a more inductive world for drug repurposing approaches]\n
-	J. de la Fuente†, G. Serrano†, U. Veleiro†, M. Casals, L. Vera, M. Pizurica, N. Gómez-Cebrián, L. Puchades-Carrasco, A. Pineda-Lucena, I. Ochoa, S. Vicent, O. Gevaert\*, *M. Hernaez\**\n
-	/arXiv/, 2024
-
  
 == Novel insights into the (patho)physiology of diseases via Machine Learning
 
@@ -41,11 +37,11 @@
     U. V. Chembazhi, S. Bangru, *M. Hernaez*, A. Kalsotra\n
     /Genome Research/, 2021
     
-    - [https://academic.oup.com/gigascience/article/8/12/giz145/5663671 Benchmark of lncRNA Quantification for RNA-Seq of Cancer Samples] \n
-    H. Zheng, K. Brennan, *M. Hernaez*, O. Gevaert\n
-    /GigaScience/, 2019\n
-    
 == (Graph) Representation Learning in biomedicine
+
+    - [https://arxiv.org/pdf/2311.12670 Towards a more inductive world for drug repurposing approaches]\n
+    J. de la Fuente†, G. Serrano†, U. Veleiro†, M. Casals, L. Vera, M. Pizurica, N. Gómez-Cebrián, L. Puchades-Carrasco, A. Pineda-Lucena, I. Ochoa, S. Vicent, O. Gevaert\*, *M. Hernaez\**\n
+    /Nature Machine Intelligence/, To appear, 2025
     
     - [https://academic.oup.com/nar/article/52/9/e44/7643294 NetActivity enhances transcriptional signals by combining gene expression into robust gene set activity scores through interpretable autoencoders]\n
     C. Ruiz-Arenas, I. Marin, L. Wang, I. Ochoa, J.L. Perez-Jurado\*, *M. Hernaez\**\n

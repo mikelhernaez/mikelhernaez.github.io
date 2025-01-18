@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.19)  14 JAN 2025 21:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.19)  14 JAN 2025 22:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**cv_mhernaez.tex
-(./cv_mhernaez.tex
+**cv_mhernaez_2025.tex
+(./cv_mhernaez_2025.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (./moderncv.cls
@@ -745,8 +745,8 @@ LaTeX Font Info:    Trying to load font information for T1+lmr on input line 59
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-(./cv_mhernaez.aux)
-\openout1 = `cv_mhernaez.aux'.
+(./cv_mhernaez_2025.aux)
+\openout1 = `cv_mhernaez_2025.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
@@ -768,9 +768,11 @@ LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 5
 9.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmss.fd
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+)
+(/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count315
 \scratchdimen=\dimen274
@@ -848,9 +850,9 @@ Package microtype Info: Loading generic protrusion settings for font family
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 59.
-(./cv_mhernaez.out) (./cv_mhernaez.out)
+(./cv_mhernaez_2025.out) (./cv_mhernaez_2025.out)
 \@outlinefile=\write4
-\openout4 = `cv_mhernaez.out'.
+\openout4 = `cv_mhernaez_2025.out'.
 
 \makecvheaddetailsbox=\box70
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 6
@@ -923,113 +925,47 @@ LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <10.95> not available
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <10> not available
 (Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 67.
 
-Overfull \hbox (22.83603pt too wide) in alignment at lines 73--73
-[] [] 
- []
-
-
-Overfull \hbox (210.05365pt too wide) in alignment at lines 80--80
-[] [] 
- []
-
-
-Overfull \hbox (9.28963pt too wide) in alignment at lines 104--104
-[] [] 
- []
-
-
 LaTeX Font Warning: Font shape `T1/lmss/bx/sc' undefined
-(Font)              using `T1/lmss/bx/n' instead on input line 118.
+(Font)              using `T1/lmss/bx/n' instead on input line 120.
 
 [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}]
-Overfull \hbox (45.4407pt too wide) in alignment at lines 183--183
-[] [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 187--188
-
- []
-
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 199--200
-
- []
-
-
-Overfull \hbox (1.69994pt too wide) in paragraph at lines 221--222
-[]\T1/lmss/m/n/10.95 (-20) Conducted re-search in bi-o-log-i-cal re-la-tional d
-atabases un-der the BIO-ZON project (http://biozon.org) 
- []
-
-[3]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 275.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 287.
 
-Overfull \hbox (2.37036pt too wide) in paragraph at lines 277--277
+Overfull \hbox (2.37036pt too wide) in paragraph at lines 289--289
  []\T1/lmss/m/sl/10 (-20) 2018
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--288
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 291--292
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 293--294
+Underfull \hbox (badness 10000) in paragraph at lines 307--308
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 295--296
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 297--298
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 306--307
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 310--311
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 312--313
-
- []
-
-[4{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 314--315
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 316--317
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 318--319
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 320--321
 
  []
 
@@ -1042,10 +978,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 322--323
 Underfull \hbox (badness 10000) in paragraph at lines 324--325
 
  []
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 326.
-
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 326--327
@@ -1077,6 +1009,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 336--337
 
  []
 
+[3{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
+
+Package hyperref Warning: Suppressing link with empty target on input line 338.
+
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 338--339
 
@@ -1087,7 +1024,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 340--341
 
  []
 
-[5]
+
 Underfull \hbox (badness 10000) in paragraph at lines 342--343
 
  []
@@ -1103,37 +1040,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 346--347
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 348--350
+Underfull \hbox (badness 10000) in paragraph at lines 348--349
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 351--352
+Underfull \hbox (badness 10000) in paragraph at lines 350--351
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 353--354
+Underfull \hbox (badness 10000) in paragraph at lines 352--353
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 355--356
+Underfull \hbox (badness 10000) in paragraph at lines 354--355
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 357--358
+Underfull \hbox (badness 10000) in paragraph at lines 356--357
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 359--360
+Underfull \hbox (badness 10000) in paragraph at lines 358--359
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 361--362
+Underfull \hbox (badness 10000) in paragraph at lines 360--362
 
  []
 
@@ -1147,7 +1084,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 365--366
 
  []
 
-
+[4]
 Underfull \hbox (badness 10000) in paragraph at lines 367--368
 
  []
@@ -1157,7 +1094,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 369--370
 
  []
 
-[6]
+
 Underfull \hbox (badness 10000) in paragraph at lines 371--372
 
  []
@@ -1173,23 +1110,52 @@ Underfull \hbox (badness 10000) in paragraph at lines 375--376
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 378--380
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 422--422
+Underfull \hbox (badness 10000) in paragraph at lines 379--380
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--423
+Underfull \hbox (badness 10000) in paragraph at lines 381--382
 
  []
 
-[7]
-No file cv_mhernaez.bbl.
-[8] (./cv_mhernaez.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 390--392
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 434--434
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--435
+
+ []
+
+No file cv_mhernaez_2025.bbl.
+[6] (./cv_mhernaez_2025.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -1198,29 +1164,28 @@ L3 programming layer <2024-02-20>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `cv_mhernaez.out' has not changed.
-(rerunfilecheck)             Checksum: 7E21EA8BA2D83D13C6FC47A6084B6C8E;1736.
+Package rerunfilecheck Info: File `cv_mhernaez_2025.out' has not changed.
+(rerunfilecheck)             Checksum: 0E7902B5891D1C6F113192EA86512A1F;1636.
  )
-(\end occurred when \iffalse on line 448 was incomplete)
-(\end occurred when \iffalse on line 426 was incomplete)
-(\end occurred when \iffalse on line 419 was incomplete)
-(\end occurred when \iffalse on line 399 was incomplete)
-(\end occurred when \iffalse on line 305 was incomplete)
+(\end occurred when \iffalse on line 460 was incomplete)
+(\end occurred when \iffalse on line 438 was incomplete)
+(\end occurred when \iffalse on line 431 was incomplete)
+(\end occurred when \iffalse on line 411 was incomplete)
+(\end occurred when \iffalse on line 317 was incomplete)
+(\end occurred when \iffalse on line 298 was incomplete)
 (\end occurred when \iffalse on line 286 was incomplete)
-(\end occurred when \iffalse on line 274 was incomplete)
-(\end occurred when \iffalse on line 241 was incomplete)
+(\end occurred when \iffalse on line 242 was incomplete)
 (\end occurred when \iffalse on line 178 was incomplete)
-(\end occurred when \iffalse on line 113 was incomplete)
-(\end occurred when \iffalse on line 70 was incomplete)
+(\end occurred when \iffalse on line 115 was incomplete)
 (\end occurred when \iffalse on line 66 was incomplete) 
 Here is how much of TeX's memory you used:
- 23418 strings out of 474116
- 434002 string characters out of 5743681
+ 23408 strings out of 474116
+ 434001 string characters out of 5743681
  1947187 words of memory out of 5000000
- 45136 multiletter control sequences out of 15000+600000
- 638097 words of font info for 179 fonts, out of 8000000 for 9000
+ 45135 multiletter control sequences out of 15000+600000
+ 637794 words of font info for 176 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 114i,11n,115p,1008b,830s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 114i,12n,115p,1013b,830s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024
 /texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2024/texmf-di
 st/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/ty
@@ -1229,10 +1194,10 @@ pe1/public/lm/lmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public
 bx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsso10.pfb>
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local
 /texlive/2024/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv_mhernaez.pdf (8 pages, 224342 bytes).
+Output written on cv_mhernaez_2025.pdf (6 pages, 216717 bytes).
 PDF statistics:
- 191 PDF objects out of 1000 (max. 8388607)
- 163 compressed objects within 2 object streams
- 21 named destinations out of 1000 (max. 500000)
- 43117 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 170 PDF objects out of 1000 (max. 8388607)
+ 144 compressed objects within 2 object streams
+ 18 named destinations out of 1000 (max. 500000)
+ 43109 words of extra memory for PDF output out of 51595 (max. 10000000)
 

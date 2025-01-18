@@ -12,12 +12,16 @@ Adjunct Professor, [https://en.unav.edu/web/department-of-physics-and-applied-ma
 Adjunct Professor (by courtesy), [https://en.unav.edu/web/department-of-biochemistry-and-genetics Department of Biochemistry and genetics]\n
 [https://en.unav.edu/inicio University of Navarra], Spain\n
 
-Our group focuses on developing and applying machine learning models, with an emphasis on (graph) representation learning, to solve open biomedical questions in the context of advance lethal diseases. We aim at taking deep learning models to the clinical practice to accelerate the path towards personalize medicine.
+Our group focuses on developing and applying machine learning models, with an emphasis on (graph) representation learning, to solve open biomedical questions in the context of advance lethal diseases. We aim at taking deep learning models to the clinical practice to accelerate the path towards personalize medicine. 
 
 ~~~
 
 
 == Recent Publications
+
+    - [https://arxiv.org/pdf/2311.12670 Towards a more inductive world for drug repurposing approaches]\n
+    J. de la Fuente†, G. Serrano†, U. Veleiro†, M. Casals, L. Vera, M. Pizurica, N. Gómez-Cebrián, L. Puchades-Carrasco, A. Pineda-Lucena, I. Ochoa, S. Vicent, O. Gevaert\*, *M. Hernaez\**\n
+    /Nature Machine Intelligence/, To appear, 2025
 
     - [https://www.nature.com/articles/s41467-024-54005-7 Uncovering functional lncRNAs by scRNA-seq with ELATUS]\n
     E. Goñi , A. M. Mas , J. Gonzalez, \[...\] , Maite Huarte\*, *M. Hernaez\**\n
