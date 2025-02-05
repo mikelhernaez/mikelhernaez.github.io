@@ -19,8 +19,12 @@ Our group focuses on developing and applying machine learning models, with an em
 
 == Recent Publications
 
+    - [https://openreview.net/pdf?id=3Fgylj4uqL Interpretable Causal Representation Learning for Biological Data in the Pathway Space]\n
+    J. de la Fuente, R. Lehmann, C. Ruiz-Arenas, \[...\], V. Lagani\*, *M. Hernaez\**\n
+    /International Conference on Learning Representations (ICLR)/, 2025
+
     - [https://arxiv.org/pdf/2311.12670 Towards a more inductive world for drug repurposing approaches]\n
-    J. de la Fuente†, G. Serrano†, U. Veleiro†, M. Casals, L. Vera, M. Pizurica, N. Gómez-Cebrián, L. Puchades-Carrasco, A. Pineda-Lucena, I. Ochoa, S. Vicent, O. Gevaert\*, *M. Hernaez\**\n
+    J. de la Fuente†, G. Serrano†, U. Veleiro†, \[...\], S. Vicent, O. Gevaert\*, *M. Hernaez\**\n
     /Nature Machine Intelligence/, To appear, 2025
 
     - [https://www.nature.com/articles/s41467-024-54005-7 Uncovering functional lncRNAs by scRNA-seq with ELATUS]\n
@@ -38,6 +42,10 @@ Our group focuses on developing and applying machine learning models, with an em
     - [https://academic.oup.com/bioinformatics/article/40/1/btad774/7491592 GeNNius: An ultrafast drug-target interaction inference method based on graph neural networks]\n
     U. Veleiro, J. De la Fuente, G. Serrano, \[...\], I. Ochoa, G. Gevaert\*, *M. Hernaez\**\n
     /Bioinformatics/, 2024\n
+
+     - [https://doi.org/10.1038/s42003-024-06249-8 Genie: the first open-source ISO/IEC encoder for genomic data]\n 
+	F. Müntefering, Adhisantoso, \[...\], *M. Hernaez\**, J. Voges\*\n
+	/Communications Biology/,2024\n
     
     - [https://aacrjournals.org/cancerres/article/83/8/1361/725101/Bayesian-Machine-Learning-Enables-Identification Identification of transcriptional network disruptions in drug-resistant metastatic prostate cancer with TraRe]\n
     C. Blatti, J. de la Fuente, H. Gao, I. Marin, Z. Chen, S. D. Zhao, W. Tan, R. Weinshilbaum, K. R. Kalari, L. Wang\*, *M. Hernaez\**\n
@@ -58,10 +66,6 @@ Our group focuses on developing and applying machine learning models, with an em
 	- [https://ieeexplore.ieee.org/abstract/document/9455132 An introduction to MPEG-G: The first open ISO\/IEC standard for the compression and exchange of genomic sequencing data] \n
 	J. Voges, *M. Hernaez*, M. Mattavelli, J. Ostermann\n
 	/Proceedings of the IEEE/, 2021\n
-
-	- [https://www.nature.com/articles/s43588-021-00089-w Towards scalable genomic data access]\n
-	*M. Hernaez* \n
-	/Nature Computational Science/, 2021\n
 
 ~~~~
 == Contact

@@ -39,8 +39,12 @@
     
 == (Graph) Representation Learning in biomedicine
 
+    - [https://openreview.net/pdf?id=3Fgylj4uqL Interpretable Causal Representation Learning for Biological Data in the Pathway Space]\n
+    J. de la Fuente, R. Lehmann, C. Ruiz-Arenas, \[...\], V. Lagani\*, *M. Hernaez\**\n
+    /International Conference on Learning Representations (ICLR)/, 2025
+
     - [https://arxiv.org/pdf/2311.12670 Towards a more inductive world for drug repurposing approaches]\n
-    J. de la Fuente†, G. Serrano†, U. Veleiro†, M. Casals, L. Vera, M. Pizurica, N. Gómez-Cebrián, L. Puchades-Carrasco, A. Pineda-Lucena, I. Ochoa, S. Vicent, O. Gevaert\*, *M. Hernaez\**\n
+    J. de la Fuente†, G. Serrano†, U. Veleiro†, \[...\], S. Vicent, O. Gevaert\*, *M. Hernaez\**\n
     /Nature Machine Intelligence/, To appear, 2025
     
     - [https://academic.oup.com/nar/article/52/9/e44/7643294 NetActivity enhances transcriptional signals by combining gene expression into robust gene set activity scores through interpretable autoencoders]\n
@@ -65,6 +69,10 @@
     
 
 == Genomic information representation
+
+     - [https://doi.org/10.1038/s42003-024-06249-8 Genie: the first open-source ISO/IEC encoder for genomic data]\n 
+	F. Müntefering, Adhisantoso, \[...\] *M. Hernaez\**, J. Voges\*\n
+	Communications Biology,2024\n
 
 	- [https://ieeexplore.ieee.org/abstract/document/9455132 An introduction to MPEG-G: The first open ISO\/IEC standard for the compression and exchange of genomic sequencing data] \n
 	J. Voges, *M. Hernaez*, M. Mattavelli, J. Ostermann\n
