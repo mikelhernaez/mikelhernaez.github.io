@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.19)  14 JAN 2025 22:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.19)  21 JAN 2025 17:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -932,211 +932,118 @@ LaTeX Font Warning: Font shape `T1/lmss/bx/sc' undefined
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}]
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 287.
+LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 
+290.
 
-Overfull \hbox (2.37036pt too wide) in paragraph at lines 289--289
- []\T1/lmss/m/sl/10 (-20) 2018
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 299--300
-
- []
-
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 303--304
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 305--306
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 307--308
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 309--310
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 318--319
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 322--323
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 324--325
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 326--327
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 328--329
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 330--331
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 332--333
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 334--335
-
- []
-
-
+(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ts1lmss.fd
+File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `TS1/lmss/bx/it' in size <10> not available
+(Font)              Font shape `TS1/lmss/bx/sl' tried instead on input line 290
+.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmss' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [2{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
 Underfull \hbox (badness 10000) in paragraph at lines 336--337
+
+ []
+
+
+LaTeX Font Warning: Font shape `T1/lmss/sb/n' undefined
+(Font)              using `T1/lmss/b/n' instead on input line 338.
+
+LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <12> not available
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 338.
+
+Underfull \hbox (badness 10000) detected at line 338
+\T1/lmss/m/n/8 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 345--347
 
  []
 
 [3{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
 
-Package hyperref Warning: Suppressing link with empty target on input line 338.
+LaTeX Font Warning: Font shape `T1/lmss/sb/n' undefined
+(Font)              using `T1/lmss/b/n' instead on input line 350.
 
 
+Underfull \hbox (badness 10000) detected at line 350
+\T1/lmss/m/n/8 .
+ []
 
-Underfull \hbox (badness 10000) in paragraph at lines 338--339
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--355
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--341
+Overfull \hbox (1.73477pt too wide) in paragraph at lines 356--358
+[]\T1/lmss/m/n/10.95 (-20) Serrano G, Be-rastegui N, Díaz-Mazkiaran A, García-O
+lloqui P, Rodriguez-Res C, Huerga-Dominguez
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--358
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--343
+Underfull \hbox (badness 10000) in paragraph at lines 359--361
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--345
+Underfull \hbox (badness 10000) in paragraph at lines 362--364
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 346--347
+Underfull \hbox (badness 10000) in paragraph at lines 365--367
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 348--349
+Underfull \hbox (badness 10000) in paragraph at lines 368--370
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 350--351
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--353
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 354--355
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 356--357
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 358--359
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 360--362
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 363--364
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 365--366
+Underfull \hbox (badness 10000) in paragraph at lines 371--373
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 367--368
+Underfull \hbox (badness 10000) in paragraph at lines 374--376
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 369--370
+Underfull \hbox (badness 10000) in paragraph at lines 377--379
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 371--372
+Underfull \hbox (badness 10000) in paragraph at lines 380--382
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 373--374
+Underfull \hbox (badness 10000) in paragraph at lines 383--385
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 375--376
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--378
-
- []
+LaTeX Font Warning: Font shape `T1/lmss/sb/n' undefined
+(Font)              using `T1/lmss/b/n' instead on input line 387.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 379--380
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 381--382
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 383--384
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 385--386
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 387--388
-
+Underfull \hbox (badness 10000) detected at line 387
+\T1/lmss/m/n/8 .
  []
 
 
@@ -1144,18 +1051,383 @@ Underfull \hbox (badness 10000) in paragraph at lines 390--392
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--395
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--398
+
+ []
+
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 434--434
+Underfull \hbox (badness 10000) in paragraph at lines 399--401
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 435--435
+Underfull \hbox (badness 10000) in paragraph at lines 402--404
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 405--407
+
+ []
+
+
+LaTeX Font Warning: Font shape `T1/lmss/sb/n' undefined
+(Font)              using `T1/lmss/b/n' instead on input line 410.
+
+
+Underfull \hbox (badness 10000) detected at line 410
+\T1/lmss/m/n/8 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--415
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 416--418
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--421
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--424
+
+ []
+
+[6{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}]
+
+LaTeX Font Warning: Font shape `T1/lmss/sb/n' undefined
+(Font)              using `T1/lmss/b/n' instead on input line 426.
+
+
+Underfull \hbox (badness 10000) detected at line 426
+\T1/lmss/m/n/8 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--431
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 432--434
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--437
+
+ []
+
+
+LaTeX Font Warning: Font shape `T1/lmss/sb/n' undefined
+(Font)              using `T1/lmss/b/n' instead on input line 439.
+
+
+Underfull \hbox (badness 10000) detected at line 439
+\T1/lmss/m/n/8 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 442--444
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--447
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 448--450
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--453
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--456
+
+ []
+
+
+LaTeX Font Warning: Font shape `T1/lmss/sb/n' undefined
+(Font)              using `T1/lmss/b/n' instead on input line 458.
+
+
+Underfull \hbox (badness 10000) detected at line 458
+\T1/lmss/m/n/8 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--463
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 464--466
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 467--469
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--472
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--475
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 476--478
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--481
+
+ []
+
+
+LaTeX Font Warning: Font shape `T1/lmss/sb/n' undefined
+(Font)              using `T1/lmss/b/n' instead on input line 484.
+
+
+Underfull \hbox (badness 10000) detected at line 484
+\T1/lmss/m/n/8 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--489
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 490--492
+
+ []
+
+
+LaTeX Font Warning: Font shape `T1/lmss/sb/n' undefined
+(Font)              using `T1/lmss/b/n' instead on input line 495.
+
+
+Underfull \hbox (badness 10000) detected at line 495
+\T1/lmss/m/n/8 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--500
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 501--503
+
+ []
+
+
+LaTeX Font Warning: Font shape `T1/lmss/sb/n' undefined
+(Font)              using `T1/lmss/b/n' instead on input line 506.
+
+
+Underfull \hbox (badness 10000) detected at line 506
+\T1/lmss/m/n/8 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 509--511
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 512--514
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--517
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--520
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--523
+
+ []
+
+
+LaTeX Font Warning: Font shape `T1/lmss/sb/n' undefined
+(Font)              using `T1/lmss/b/n' instead on input line 526.
+
+
+Underfull \hbox (badness 10000) detected at line 526
+\T1/lmss/m/n/8 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--531
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 532--534
+
+ []
+
+
+LaTeX Font Warning: Font shape `T1/lmss/sb/n' undefined
+(Font)              using `T1/lmss/b/n' instead on input line 536.
+
+
+Underfull \hbox (badness 10000) detected at line 536
+\T1/lmss/m/n/8 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--541
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 542--544
+
+ []
+
+
+LaTeX Font Warning: Font shape `T1/lmss/sb/n' undefined
+(Font)              using `T1/lmss/b/n' instead on input line 546.
+
+
+Underfull \hbox (badness 10000) detected at line 546
+\T1/lmss/m/n/8 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 549--551
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 552--554
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--557
+
+ []
+
+
+LaTeX Font Warning: Font shape `T1/lmss/sb/n' undefined
+(Font)              using `T1/lmss/b/n' instead on input line 559.
+
+
+Underfull \hbox (badness 10000) detected at line 559
+\T1/lmss/m/n/8 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 562--564
+
+ []
+
+
+LaTeX Font Warning: Font shape `T1/lmss/sb/n' undefined
+(Font)              using `T1/lmss/b/n' instead on input line 566.
+
+
+Underfull \hbox (badness 10000) detected at line 566
+\T1/lmss/m/n/8 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--571
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 572--574
+
+ []
+
+
+LaTeX Font Warning: Font shape `T1/lmss/sb/n' undefined
+(Font)              using `T1/lmss/b/n' instead on input line 576.
+
+
+Underfull \hbox (badness 10000) detected at line 576
+\T1/lmss/m/n/8 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 579--581
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 582--584
+
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 585--587
+
+ []
+
+
+LaTeX Font Warning: Font shape `T1/lmss/sb/n' undefined
+(Font)              using `T1/lmss/b/n' instead on input line 589.
+
+
+Underfull \hbox (badness 10000) detected at line 589
+\T1/lmss/m/n/8 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--594
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--620
+
+ []
+
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 624.
+[11]
 No file cv_mhernaez_2025.bbl.
-[6] (./cv_mhernaez_2025.aux)
+[12] (./cv_mhernaez_2025.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -1165,39 +1437,40 @@ L3 programming layer <2024-02-20>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `cv_mhernaez_2025.out' has not changed.
-(rerunfilecheck)             Checksum: 0E7902B5891D1C6F113192EA86512A1F;1636.
+(rerunfilecheck)             Checksum: 91FEBE8342CC01DD5FE08263380E785A;2709.
  )
-(\end occurred when \iffalse on line 460 was incomplete)
-(\end occurred when \iffalse on line 438 was incomplete)
-(\end occurred when \iffalse on line 431 was incomplete)
-(\end occurred when \iffalse on line 411 was incomplete)
-(\end occurred when \iffalse on line 317 was incomplete)
-(\end occurred when \iffalse on line 298 was incomplete)
-(\end occurred when \iffalse on line 286 was incomplete)
-(\end occurred when \iffalse on line 242 was incomplete)
-(\end occurred when \iffalse on line 178 was incomplete)
+(\end occurred when \iffalse on line 655 was incomplete)
+(\end occurred when \iffalse on line 633 was incomplete)
+(\end occurred when \iffalse on line 622 was incomplete)
+(\end occurred when \iffalse on line 613 was incomplete)
+(\end occurred when \iffalse on line 335 was incomplete)
+(\end occurred when \iffalse on line 289 was incomplete)
+(\end occurred when \iffalse on line 245 was incomplete)
+(\end occurred when \iffalse on line 186 was incomplete)
 (\end occurred when \iffalse on line 115 was incomplete)
 (\end occurred when \iffalse on line 66 was incomplete) 
 Here is how much of TeX's memory you used:
- 23408 strings out of 474116
- 434001 string characters out of 5743681
+ 23529 strings out of 474116
+ 435801 string characters out of 5743681
  1947187 words of memory out of 5000000
- 45135 multiletter control sequences out of 15000+600000
- 637794 words of font info for 176 fonts, out of 8000000 for 9000
+ 45185 multiletter control sequences out of 15000+600000
+ 646116 words of font info for 200 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  114i,12n,115p,1013b,830s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024
 /texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2024/texmf-di
-st/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/ty
-pe1/public/lm/lmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public
-/lm/lmssbo10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss
-bx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsso10.pfb>
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local
-/texlive/2024/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv_mhernaez_2025.pdf (6 pages, 216717 bytes).
+st/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/t
+ype1/public/lm/lmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public
+/lm/lmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss8.
+pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmssbo10.pfb></us
+r/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/
+texlive/2024/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2
+024/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2024/texmf-d
+ist/fonts/type1/public/marvosym/marvosym.pfb>
+Output written on cv_mhernaez_2025.pdf (12 pages, 241942 bytes).
 PDF statistics:
- 170 PDF objects out of 1000 (max. 8388607)
- 144 compressed objects within 2 object streams
- 18 named destinations out of 1000 (max. 500000)
- 43109 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 244 PDF objects out of 1000 (max. 8388607)
+ 206 compressed objects within 3 object streams
+ 40 named destinations out of 1000 (max. 500000)
+ 49381 words of extra memory for PDF output out of 51595 (max. 10000000)
 
