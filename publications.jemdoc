@@ -10,62 +10,62 @@
 	J. de la Fuente†, N. Legarra†, G. Serrano, I. Marin-Goni, A. Diaz-Mazkiaran, M. Benito, A. Garcia-Osta, K. R Kalari, C. Fernandez-Granda, I. Ochoa\*, *M. Hernaez\**\n
 	/arXiv/, 2024
 
- 
-== Novel insights into the (patho)physiology of diseases via Machine Learning
-
-    - [https://www.nature.com/articles/s41467-024-54005-7 Uncovering functional lncRNAs by scRNA-seq with ELATUS]\n
-    E. Goñi, A. M. Mas , J. Gonzalez, \[...\] , Maite Huarte\*, *M. Hernaez\**\n
-    /Nature Communications/, 2024 
-    
-    - [https://www.nature.com/articles/s41467-024-49529-x Single-cell transcriptional profile of CD34+ hematopoietic progenitor cells from del(5q) Myelodysplastic Syndromes and impact of lenalidomide]\n
-    G. Serrano†, N. Berastegi†, A. Diaz-Mazkiaran†, \[...\], F. Prosper\*, T. Ezponda\*, *M. Hernaez\**\n
-    /Nature Communications/, 2024
-    
-    - [https://aacrjournals.org/cancerres/article/83/8/1361/725101/Bayesian-Machine-Learning-Enables-Identification Identification of transcriptional network disruptions in drug-resistant metastatic prostate cancer with TraRe]\n
-    C. Blatti†, J. de la Fuente†, H. Gao, I. Marin, Z. Chen, S. D. Zhao, W. Tan, R. Weinshilbaum, K. R. Kalari, L. Wang\*, *M. Hernaez\**\n
-    /Cancer Research/, 2023\n 
-
-    - [https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1270843/full Optimization of a universal allogeneic CAR-T cells combining CRISPR and transposon-based technologies for treatment of Acute Myeloid Leukemia]\n
- C. Calviño†, C. Ceballos†, A. Alfonso†, P. Jauregui, \[...\], *M. Hernaez\**, F. Prosper\*, J. R. Rodriguez-Madoz\*\n
-	/Frontiers in Immunology/, 2023
-    
-    - [https://www.science.org/doi/10.1126/sciadv.abo0514 CAR Density Influences Antitumoral Efficacy of BCMA CAR T cells and Correlates with Clinical Outcome]\n
-    P. Rodriguez-Marquez†,  M. E. Calleja-Cervantes†,  G. Serrano†, \[...\], *M. Hernaez\**,  J. R. Rodriguez-Madoz\*, F. Prosper\*\n
-    /Science Advances/, 2022 (Oral Presentation at ASH 2022)\n
-    
-    - [https://genome.cshlp.org/content/early/2021/03/01/gr.267013.120 Cellular plasticity balances the metabolic and proliferation dynamics of a regenerating liver] \n
-    U. V. Chembazhi, S. Bangru, *M. Hernaez*, A. Kalsotra\n
-    /Genome Research/, 2021
-    
 == (Graph) Representation Learning in biomedicine
 
     - [https://openreview.net/pdf?id=3Fgylj4uqL Interpretable Causal Representation Learning for Biological Data in the Pathway Space]\n
     J. de la Fuente, R. Lehmann, C. Ruiz-Arenas, \[...\], V. Lagani\*, *M. Hernaez\**\n
-    /International Conference on Learning Representations (ICLR)/, 2025
+    /*International Conference on Learning Representations (ICLR)*/, 2025
 
     - [https://arxiv.org/pdf/2311.12670 Towards a more inductive world for drug repurposing approaches]\n
     J. de la Fuente†, G. Serrano†, U. Veleiro†, \[...\], S. Vicent, O. Gevaert\*, *M. Hernaez\**\n
-    /Nature Machine Intelligence/, 2025 (Oral Presentation at Neurips - AI4D3 Workshop, 2024)\n
+    /*Nature Machine Intelligence*/, 2025 (Oral Presentation at Neurips - AI4D3 Workshop, 2024)\n
+
+    - [https://www.nature.com/articles/s41467-024-54005-7 Uncovering functional lncRNAs by scRNA-seq with ELATUS]\n
+    E. Goñi, A. M. Mas , J. Gonzalez, \[...\] , Maite Huarte\*, *M. Hernaez\**\n
+    /*Nature Communications*/, 2024 
     
     - [https://academic.oup.com/nar/article/52/9/e44/7643294 NetActivity enhances transcriptional signals by combining gene expression into robust gene set activity scores through interpretable autoencoders]\n
     C. Ruiz-Arenas, I. Marin, L. Wang, I. Ochoa, J.L. Perez-Jurado\*, *M. Hernaez\**\n
-    /Nucleic Acids Research/, 2024 (Oral Presentation a ISMB 2022)\n
+    /*Nucleic Acids Research*/, 2024 (Oral Presentation a ISMB 2022)\n
     
     - [https://academic.oup.com/bioinformatics/article/40/1/btad774/7491592 GeNNius: An ultrafast drug-target interaction inference method based on graph neural networks]\n
     U. Veleiro, J. De la Fuente, G. Serrano, \[...\], I. Ochoa, G. Gevaert\*, *M. Hernaez\**\n
-    /Bioinformatics/, 2024\n
+    /*Bioinformatics*/, 2024\n
+
+    - [https://aacrjournals.org/cancerres/article/83/8/1361/725101/Bayesian-Machine-Learning-Enables-Identification Identification of transcriptional network disruptions in drug-resistant metastatic prostate cancer with TraRe]\n
+    C. Blatti†, J. de la Fuente†, H. Gao, I. Marin, Z. Chen, S. D. Zhao, W. Tan, R. Weinshilbaum, K. R. Kalari, L. Wang\*, *M. Hernaez\**\n
+    /*Cancer Research*/, 2023\n 
     
     - [https://academic.oup.com/bioinformatics/article/38/9/2488/6543609 JIND: Joint Integration and Discrimination for Automated Single-Cell Annotation]\n
     M. Goyal, G. Serrano, J. Argemi, I. Shomorony, *M. Hernaez\**, I. Ochoa\*\n
-    /Bioinformatics/, 2022\n (Oral Presentation a MLBM Workshop 2021)\n
+    /*Bioinformatics*/, 2022\n 
+    (Oral Presentation a MLBM Workshop 2021)\n
     
     - [https://www.nature.com/articles/s42003-022-03319-7 SimiC enables the inference of complex gene regulatory dynamics across cell phenotypes]\n
     J. Peng†, G. Serrano†, I. M. Traniello, M. E. Calleja-Cervantes, \[...\], I. Ochoa\*, *M. Hernaez\**\n
-    /Communications Biology/, 2022\n
+    /*Communications Biology*/, 2022\n
     
     - [https://academic.oup.com/bioinformatics/article/36/2/558/5530163 Comparison of single gene and module-based methods for modeling gene regulatory networks]\n
     *M. Hernaez\**, C. Blatti, O. Gevaert\*\n
-    /Bioinformatics/, 2020\n
+    /*Bioinformatics*/, 2020\n
+ 
+== Novel insights into the pathophysiology of diseases via Machine Learning
+
+    - [https://www.nature.com/articles/s41467-024-49529-x Single-cell transcriptional profile of CD34+ hematopoietic progenitor cells from del(5q) Myelodysplastic Syndromes and impact of lenalidomide]\n
+    G. Serrano†, N. Berastegui†, A. Diaz-Mazkiaran†, \[...\], F. Prosper\*, T. Ezponda\*, *M. Hernaez\**\n
+    /*Nature Communications*/, 2024
+
+    - [https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1270843/full Optimization of a universal allogeneic CAR-T cells combining CRISPR and transposon-based technologies for treatment of Acute Myeloid Leukemia]\n
+ C. Calviño†, C. Ceballos†, A. Alfonso†, P. Jauregui, \[...\], *M. Hernaez\**, F. Prosper\*, J. R. Rodriguez-Madoz\*\n
+	/*Frontiers in Immunology*/, 2023
+    
+    - [https://www.science.org/doi/10.1126/sciadv.abo0514 CAR Density Influences Antitumoral Efficacy of BCMA CAR T cells and Correlates with Clinical Outcome]\n
+    P. Rodriguez-Marquez†,  M. E. Calleja-Cervantes†,  G. Serrano†, \[...\], *M. Hernaez\**,  J. R. Rodriguez-Madoz\*, F. Prosper\*\n
+    /*Science Advances*/, 2022 (Oral Presentation at ASH 2022)\n
+    
+    - [https://genome.cshlp.org/content/early/2021/03/01/gr.267013.120 Cellular plasticity balances the metabolic and proliferation dynamics of a regenerating liver] \n
+    U. V. Chembazhi, S. Bangru, *M. Hernaez*, A. Kalsotra\n
+    /*Genome Research*/, 2021
     
 
 == Genomic information representation
